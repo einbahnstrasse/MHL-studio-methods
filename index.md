@@ -24,7 +24,7 @@ last_modified_at: 2023-08-28
 <div class="lang-sidebar">
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
   {% for page in pages %}
-    <li class="zoom"><a href="/MHL-Advanced-CAO{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
+    <li class="zoom"><a href="/MHL-studio-methods{{ page.url }}" class="{{ page.lang }}"><span class="fi fi-{{ page.lang }}"></span></a></li>
   {% endfor %}
 </div>
 
@@ -34,10 +34,10 @@ last_modified_at: 2023-08-28
 
 ## 1. Essential Contact Information  
 
-**Course Number:** 00789   
+**Course Number:** 00003   
 **Semester:** Fall/Winter 2023   
 <!-- **Section:** OL20 (21310)   -->
-**Time:** Tuesdays 14:30-16:00    
+**Time:** Tuesdays 10:00-11:30    
 **Location:** 2.43 Electronic Music Studio   
 **Format:** Seminar   
 **Modality:** In-person<b>*</b>   
@@ -54,15 +54,15 @@ last_modified_at: 2023-08-28
 
 ## 2. Course Description    
 
-**Advanced Computer-Assisted Composition** is a second-semester MaxMSP and synthesis course that introduces students to the tools of Computer-Assisted Composition (CAO). Considering a number of "real-time" and "offline" CAO paradigms, students will learn to control a variety of MaxMSP-based synthesizers and digital signal processing algorithms using the [BACH library for Computer-Assisted Composition](https://www.bachproject.net/){:target="_blank"}, including polysynthesis, audio spatialization, and physical modeling ("modal") synthesis. Topics in algorithmic composition will frequently be disucssed, as well as specific historical works by contemporary composers.  
+**Electronic Studio Methods and Composition** is a first-semester foundational course in electronic music and sound art, introducing students to the studio enviornment and to the rudiments of digital creation, recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. Central topics may change from one semester to the next as a result of its flexible structure. This semester will focus on **multichannel fixed media composition**: students will create a fixed media piece ("tape piece") for 16 loudspeakers to be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024). 
 
-Each weekly seminar is a patching workshop on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ We will complete weekly pedagogical patches built in each class, which can be quickly integrated into personal projects. Most work in this class will be rendered in musical notation that can be easily exported for use in software notation programs like Finale, Sibelius, Lilypond, etc. Students will learn to use new software libraries, set up and maintain a public _GitHub_ repository consisting of coursework, actively communicate about course materials on our MHL Discord Server, and finish a small project or a _work-in-progress_ to be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024).   
+Weekly seminars are structured with an emphasis on creating, transforming, and sculpting sounds. Classes will frequently consist of software tutorials and in-class demonstrations that can quickly integrate into personal artistic projects. Students will be required to complete a number of smaller graded assignments, culminating in a final piece. Each week focuses on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ Students should communicate about course materials on our MHL Discord Server. There is a **midterm exam**: a 3-minute stereo fixed media "sketch." This sketch can expanded upon and made into the **final exam**: a 10-minute multichannel work for the concert.    
+
+_**Students are required to pass Electronic Studio Methods and Composition in order to continue taking our Digitale Kreation courses at MHL.**_   
 
 ### 2.1 Course Goals      
 
 Students will learn to **integrate** basic formal methods of musical generation into their already established personal and foundational MaxMSP workflow by **building control structures** such as loops, functions, and conditionals. Various data clases, as well as historic approaches to CAO methods by twentieth and twenty-first century composers, will be **observed** and **understood**. A final step in this process is the **creation of a concert work** or a _work-in-progress_ to be presented near the end of the semester during a class concert.  
-
-
 
 ### 2.2 Learning Outcomes  
 
@@ -81,24 +81,21 @@ _By the end of the course, successful students will be able to do the following:
 _See the [RESOURCES TAB](/resources){:target="_blank"} for download and documentation links._  
 1. personal laptop  
 2. headphones  
-3. MaxMSP  
-4. the bach library for computer-assisted composition  
-5. the Modalys library for physical modeling synthesis  
-6. Terminal (pre-packaged on macOS/Linux) or Terminal Emulator (download for Windows users)  
-7. Git version control system   
-8. a public account on _GitHub.com_  
-9. Google Chrome or any web browser that will allow you to access our Course Website & materials   
-10. various other plugins and apps listed throughout the semester  
+3. external hard drive _(or cloud storage to back up your files)_  
+3. Reaper  
+4. SpatGRIS    
+5. MaxMSP  
+6. Google Chrome or any web browser that will allow you to access our Course Website & materials   
+7. various other plugins and apps listed throughout the semester   
 
 ## 3. Expectations   
 
 ### 3.1 General Expectations   
 
 1. **Arrive on time** to all course sessions.  
-2. Setup + maintain a public _GitHub_ account, and report your username to the instructor for grading at the start of the semester.  
-3. Spend **1-2 additional hours a week** _(outside of class)_ on the timely completion of our lab assignments and projects.  
-4. Submit assignments by the given deadlines: {{ site.weekly-deadline-statement }}  
-5. **Back up and organize your work REGULARLY on _GitHub_.** _Catastrophic loss of materials is not an excuse for missed deadlines!_  
+2. Spend **1-2 additional hours a week** _(outside of class)_ on the timely completion of our lab assignments and projects.  
+3. Submit assignments by the given deadlines: {{ site.weekly-deadline-statement }}  
+4. **Back up and organize your work REGULARLY.** _Catastrophic loss of materials is not an excuse for missed deadlines!_  
 
 ### 3.2 Weekly Preparation      
 
@@ -152,23 +149,23 @@ _Participation is based on attendance and your engagement in class, and will for
 </thead>
 <tbody>
 <tr>
-<td markdown="span">14:30 or earlier</td>
+<td markdown="span">10:00 or earlier</td>
 <td markdown="span">5 points (full credit)</td>
 </tr>
 <tr>
-<td markdown="span">14:31—14:10</td>
+<td markdown="span">10:01—10:10</td>
 <td markdown="span">4 points</td>
 </tr>
 <tr>
-<td markdown="span">14:11—15:00</td>
+<td markdown="span">10:11—10:30</td>
 <td markdown="span">3 points</td>
 </tr>
 <tr>
-<td markdown="span">15:01—15:30</td>
+<td markdown="span">10:31—10:45</td>
 <td markdown="span">2 points</td>
 </tr>
 <tr>
-<td markdown="span">after 15:30</td>
+<td markdown="span">after 10:45</td>
 <td markdown="span">1 point</td>
 </tr>
 <tr>
