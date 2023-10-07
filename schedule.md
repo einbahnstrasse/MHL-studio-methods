@@ -38,7 +38,7 @@ last_modified_at: 2023-08-28
 <!-- # Schedule -->
 _This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current MHL Academic Calendar]({{ site.MHL-calendar }}){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_  
 
-* * *
+* * *  
 
 ## Week 1: {{ site.week-01 }}  
 
@@ -71,7 +71,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Lab 1 / Part 1: Commands + Navigation](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part1.commands.navigation.txt){:target="_blank"}  
 * [Lab 1 / Part 2: Download + (Un)Compress](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part2.download.compress.txt){:target="_blank"}   -->
 
-<!-- * * * -->
+* * *
 
 <!-- <a id="w2"></a> -->
 <!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
