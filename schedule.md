@@ -45,13 +45,13 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- ### [Week #1 Survey/Quiz — Personal Info, Syllabus Elements](https://forms.gle/HeYNxzVSuG67M3Nb8){:target="_blank"}   -->
 <!-- * _Complete the quizlet above as part of today's participation._   -->
 
-#### Start-of-Semester Business  
+### Start-of-Semester Business  
 
 * Review [Syllabus + course policies](/MHL-studio-methods/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading](/MHL-studio-methods/grading.html){:target="_blank"}  
 <!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
-#### Tutorials
+### Tutorials
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}  
 
 <!-- #### Video Tutorial
@@ -77,6 +77,11 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
 ## Week 2: {{ site.week-02 }}  
 
+### Tutorials  
+
+### Assignments  
+
+
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files  
 
 ### [Week 2 Quizlet](https://forms.gle/vFneHmAUaNeTaHo4A){:target="_blank"}  
@@ -99,20 +104,40 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 3: {{ site.week-03 }}  
 <!-- ### Version Control: Introduction to GIT, Concepts + Basic Commands   -->
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 4: {{ site.week-04 }}  
 <!-- ### Version Control: Local/Remote Repositories + Collaboration Via _GitHub_   -->
+
+### Tutorials  
+
+### Assignments  
+
 
 * * *
 
 ## Week 5: {{ site.week-05 }}  
 <!-- ### JavaScript + Python: Introduction, Variables, Types, Input/Output -->
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 6: {{ site.week-06 }}  
 <!-- ### Review: Version Control + Basic JavaScript/Python   -->
+
+### Tutorials  
+
+### Assignments  
+
 
 
 * * *
@@ -121,12 +146,20 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- ### Javascript + Python: Conditionals -->
 <!-- <p class="redish"><i>Spring Recess 3/27-4/4. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2021.pdf" target="_blank">CityTech Spring 2021 Schedule.</a></i></p> -->  
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 8: {{ site.week-08 }}  
 <!-- ### JavaScript + Python: For Loops   -->
 
-### [Week 8 Quiz](https://forms.gle/h5XMi7Gy1UDLAGta6){:target="_blank"}  
+### Tutorials  
+
+### Assignments  
+
 
 
 * * *
@@ -134,16 +167,31 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 9: {{ site.week-09 }}  
 <!-- ### Javascript + Python: Function Definitions + Function Calls -->
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 10: {{ site.week-10 }}  
 <!-- ### Introduction to Python Data Visualization + Mapping -->
 <!-- ### Review Week   -->
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 11: {{ site.week-11 }}  
 <!-- ### Javascript + Python: More Kinds of Loops    -->
+
+### Tutorials  
+
+### Assignments  
+
 
 
 * * *
@@ -151,10 +199,20 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 12: {{ site.week-12 }}  
 <!-- ### HTML/CSS: Introduction   -->
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 13: {{ site.week-13 }}  
 <!-- ### HTML/CSS: Drawing on Web Pages (Using JavaScript + HTML Canvas) -->
+
+### Tutorials  
+
+### Assignments  
+
 
 
 * * *
@@ -162,20 +220,40 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 14: {{ site.week-14 }}  
 <!-- ### _GitHub Pages_, Advanced Web Design + Layout -->
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 15: {{ site.week-15 }}  
 <!-- ### Complete + Present Final Assignments -->
+
+### Tutorials  
+
+### Assignments  
+
 
 * * *
 
 ## Week 16: {{ site.week-16 }}  
 <!-- ### Complete + Present Final Assignments -->
 
+### Tutorials  
+
+### Assignments  
+
+
 * * *
 
 ## Week 17: {{ site.week-17 }}  
 <!-- ### Complete + Present Final Assignments -->
+
+### Tutorials  
+
+### Assignments  
+
 
 * * *
 
