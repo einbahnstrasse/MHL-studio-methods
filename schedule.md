@@ -40,7 +40,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 * * *
 
-## Week 1: {{ site.week-01 }}
+## Week 1: {{ site.week-01 }}  
 
 <!-- ### [Week #1 Survey/Quiz — Personal Info, Syllabus Elements](https://forms.gle/HeYNxzVSuG67M3Nb8){:target="_blank"}   -->
 <!-- * _Complete the quizlet above as part of today's participation._   -->
@@ -71,11 +71,11 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Lab 1 / Part 1: Commands + Navigation](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part1.commands.navigation.txt){:target="_blank"}  
 * [Lab 1 / Part 2: Download + (Un)Compress](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part2.download.compress.txt){:target="_blank"}   -->
 
-* * *
+<!-- * * * -->
 
 <!-- <a id="w2"></a> -->
 <!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
-## Week 2: {{ site.week-02 }}
+## Week 2: {{ site.week-02 }}  
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files  
 
