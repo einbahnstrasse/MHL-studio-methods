@@ -96,40 +96,34 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 * * *
 
-<a id="w3"></a>
-<h3 class="schedule-page-date">Week 3: {{ site.week-03 }}</h3>
+## Week 3: {{ site.week-03 }}  
 <!-- ### Version Control: Introduction to GIT, Concepts + Basic Commands   -->
 
 * * *
 
-<a id="w4"></a>
-<h3 class="schedule-page-date">Week 4: {{ site.week-04 }}</h3>
+## Week 4: {{ site.week-04 }}  
 <!-- ### Version Control: Local/Remote Repositories + Collaboration Via _GitHub_   -->
 
 * * *
 
-<a id="w5"></a>
-<h3 class="schedule-page-date">Week 5: {{ site.week-05 }}</h3>
+## Week 5: {{ site.week-05 }}  
 <!-- ### JavaScript + Python: Introduction, Variables, Types, Input/Output -->
 
 * * *
 
-<a id="w6"></a>
-<h3 class="schedule-page-date">Week 6: {{ site.week-06 }}</h3>
+## Week 6: {{ site.week-06 }}  
 <!-- ### Review: Version Control + Basic JavaScript/Python   -->
 
 
 * * *
 
-<a id="w7"></a>
-<h3 class="schedule-page-date">Week 7: {{ site.week-07 }}</h3>
+## Week 7: {{ site.week-07 }}  
 <!-- ### Javascript + Python: Conditionals -->
 <!-- <p class="redish"><i>Spring Recess 3/27-4/4. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2021.pdf" target="_blank">CityTech Spring 2021 Schedule.</a></i></p> -->  
 
 * * *
 
-<a id="w8"></a>
-<h3 class="schedule-page-date">Week 8: {{ site.week-08 }}</h3>
+## Week 8: {{ site.week-08 }}  
 <!-- ### JavaScript + Python: For Loops   -->
 
 ### [Week 8 Quiz](https://forms.gle/h5XMi7Gy1UDLAGta6){:target="_blank"}  
@@ -137,63 +131,50 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 * * *
 
-<a id="w9"></a>
-<h3 class="schedule-page-date">Week 9: {{ site.week-09 }}</h3>
+## Week 9: {{ site.week-09 }}  
 <!-- ### Javascript + Python: Function Definitions + Function Calls -->
 
 * * *
 
-<a id="w10"></a>
-<h3 class="schedule-page-date">Week 10: {{ site.week-10 }}</h3>
+## Week 10: {{ site.week-10 }}  
 <!-- ### Introduction to Python Data Visualization + Mapping -->
 <!-- ### Review Week   -->
 
 * * *
 
-<a id="w11"></a>
-<h3 class="schedule-page-date">Week 11: {{ site.week-11 }}</h3>  
+## Week 11: {{ site.week-11 }}  
 <!-- ### Javascript + Python: More Kinds of Loops    -->
 
 
 * * *
 
-<a id="w12"></a>
-<h3 class="schedule-page-date">Week 12: {{ site.week-12 }}</h3>
+## Week 12: {{ site.week-12 }}  
 <!-- ### HTML/CSS: Introduction   -->
 
 * * *
 
-<a id="w13"></a>
-<h3 class="schedule-page-date">Week 13: {{ site.week-13 }}</h3>
+## Week 13: {{ site.week-13 }}  
 <!-- ### HTML/CSS: Drawing on Web Pages (Using JavaScript + HTML Canvas) -->
 
 
 * * *
 
-<a id="w14"></a>
-<h3 class="schedule-page-date">Week 14: {{ site.week-14 }}</h3>
+## Week 14: {{ site.week-14 }}  
 <!-- ### _GitHub Pages_, Advanced Web Design + Layout -->
 
-
-<a id="final-code-snippets"></a>
-<h5 style="color:Tomato;"><b>Supplemental Shortcuts for HTML Elements</b></h5>  
-
 * * *
 
-<a id="w15"></a>
-<h3 class="schedule-page-date">Week 15: {{ site.week-15 }}</h3>
+## Week 15: {{ site.week-15 }}  
 <!-- ### Complete + Present Final Assignments -->
 
 * * *
 
-<a id="w16"></a>
-<h3 class="schedule-page-date">Week 16: {{ site.week-16 }}</h3>
+## Week 16: {{ site.week-16 }}  
 <!-- ### Complete + Present Final Assignments -->
 
 * * *
 
-<a id="w17"></a>
-<h3 class="schedule-page-date">Week 17: {{ site.week-17 }}</h3>
+## Week 17: {{ site.week-17 }}  
 <!-- ### Complete + Present Final Assignments -->
 
 * * *
