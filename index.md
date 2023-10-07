@@ -48,8 +48,11 @@ last_modified_at: 2023-08-28
 **Office Hours:** Monday — Wednedsay <mark>by appointment</mark>   
 **Office Location:** _"The Aquarium"_ (next to 2.43 Electronic Music Studio)  
 **MHL Discord Server:** [https://discord.gg/ZQWrjtwq](https://discord.gg/ZQWrjtwq){:target="_blank"}      
-**Course Website:** [https://einbahnstrasse.github.io/MHL-Advanced-CAO/](https://einbahnstrasse.github.io/MHL-Advanced-CAO/){:target="_blank"}  
+**Course Website:** [https://einbahnstrasse.github.io/MHL-studio-methods/](https://einbahnstrasse.github.io/MHL-studio-methods/){:target="_blank"}  
 
+_If you're viewing this syllabus on a projected screen, bookmark our site at the following link:_   
+
+![Our site.](assets/images/qr-site.png)   
   
 
 ## 2. Course Description    
@@ -114,15 +117,15 @@ _See the [RESOURCES TAB](/resources){:target="_blank"} for download and document
 7. If you have a question that may be relevant to the group (about assignments, etc.), post it on Discord.  
 8. Use Discord for easy communication with your colleagues as well — you can DM individuals or selected groups.  
 
-### 3.4 Self-Guided Patching   
+### 3.4 Self-Guided Work  
 
-1. All students are responsible for building each of our pedagogical patches **by themselves**, regardless of whether a student needs to be absent or late from any class session, for any reason. 
-2. This policy fosters a habit of **personal practice** in Max and **promotes self-guided learning** and **understanding** of each patch's raw components.  
-3. Students are also responsbile for producing their **own work** throughout the class, including their own builds of our pedagogical patches, in accordance with our [Academic Integrity Policy](#academic-integrity-policy) below.  
-4. Direct copies or clones of Max patches are evident in their line-by-line code, and are therefore easily traceable. 
-5. Students should rely on our **seminar discussions**, **patch comments**, **office hours**, Max's extensive **documentation**, **help files**, and **user forums** to actively troublehsoot and **debug** issues that are naturally expected to arise during patching/coding. _This is how one learns best as they engage in project work._   
-6. By adopting this policy, we avoid fostering a habit of **relying on others' code**: that is, constantly borrowing Max patches from colleagues or forums without learning to understand a patch's underlying functionality.  
-7. This policy is **not to enforce copying or mimicking**, but rather to promote **reasoning through the pedagogical patches** and adopting their utilization **as templates and boiler documents**, that is, as a basis for future work, aimed at **building independence and creativity**. At its core, this policy, therefore, combats the habit of **copying code** without understanding its functioning.         
+1. All students are responsible for building each of our DAW sessions (e.g., in Reaper) and each of our pedagogical patches (e.g., in MaxMSP) **by themselves**, regardless of whether a student needs to be absent or late from any class session, for any reason. 
+2. This policy fosters a habit of **personal practice** using our software and **promotes self-guided learning** and **understanding**.  
+3. Students are also responsbile for producing their **own work** throughout the class, including their own builds of our pedagogical patches, DAW sessions, and sample recordings, in accordance with our [Academic Integrity Policy](#academic-integrity-policy) below.  
+4. Direct copies or clones of other people's creative work are evident in the line-by-line code of the software itself, and are therefore easily traceable. 
+5. Students should rely on our **seminar discussions**, **patch comments**, **office hours**, software **documentation**, **help files**, and **user forums** to actively troublehsoot and **debug** issues that are naturally expected to arise during interactions with new software. _This is how one learns best as they engage in project work._   
+6. By adopting this policy, we avoid fostering a habit of **relying on others' code**: that is, constantly borrowing from colleagues or forums without learning to understand the software's underlying functionality.  
+7. This policy is **not to enforce copying or mimicking**, but rather to promote **reasoning through the course materials** and adopting its utilization **as template and boiler documents**, that is, as a basis for future work, aimed at **building independence and creativity**. At its core, this policy, therefore, combats the habit of **copying code** without understanding its functioning.         
 8. At first, students may **progress slowly** through this process. However, just like learning to drive a car, students will become more efficient and quicker over time as they **optimize their patching routine** and **build resourcefulness**. Through our class patches and projects, students **will learn to debug faster**, to actively seek solutions from the best resources for any given necessity, and to find resolution in an efficient, self-guided manner.   
 
 ### 3.5 Attendance + Participation Policy   
@@ -184,7 +187,7 @@ _Participation is based on attendance and your engagement in class, and will for
 * If you must be absent for any reason, regardless of whether that absence is excused or unexcused, follow this **Procedure for Absences:**   
 
   1. Check our [Schedule](/schedule){:target="_blank"} for assignments, videos, slides, readings, etc.   
-  2. Contact a classmate for **patch screenshots** and **notes** on what you missed (e.g. on Discord) _(in accordance with [3.5.2.3 Sharing Patch Screenshots](#3523-sharing-patch-screenshots) below)._   
+  2. Contact a classmate for **patch screenshots** and **notes** on what you missed (e.g. on Discord) _(in accordance with [3.5.2.3 Sharing Patch Screenshots (MaxMSP)](#3523-sharing-patch-screenshots-maxmsp) below)._   
   3. After these first 2 steps, contact the instructor with any additional questions.   
 
 * **Absences/tardiness must be accompanied by documentation** and/or include advance notice with the instructor. Absences/tardiness will not impact on your grade if they are reported in advance and if they are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor's note, religious observance with advance notice, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.  
@@ -200,9 +203,9 @@ _Participation is based on attendance and your engagement in class, and will for
 * <span style="color: red;">_**NOTE:** Instructor availability is limited and available on a first-come-first-serve basis. I will not always be available due to my additional teaching and other events. Availability for Check-In Meetings, therefore, **is not guaranteed!** Students must coordinate around the instructor's availability if they choose to be absent from multiple seminars. Failure to scheudle or attend the required number of Check-In Meetings is  firmly the responsibility of the student and will result in lowered participation grades for the semester._</span>  
 * Students should, therefore, strive to attend all seminars, or as many as possible, in person.  
 
-##### 3.5.2.3 Sharing Patch Screenshots   
+##### 3.5.2.3 Sharing Patch Screenshots (MaxMSP)   
 
-1. In accordance with [3.4 Self-Guided Patching](#34-self-guided-patching) above, students should **never share their patches** (.maxpat) with one another. 
+1. In accordance with [3.4 Self-Guided Work](#34-self-guided-work) above, students should **never share their patches** (.maxpat) with one another. 
 2. Rather, students should **only share screenshots** of their work. In other words, all students should build each of the pedagogical patches by themselves.   
 3. See [How to take a screenshot on a Mac or PC](https://reviewed.usatoday.com/laptops/features/how-to-take-a-screenshot-on-mac-and-pc){:target="_blank"} for further details.   
 
