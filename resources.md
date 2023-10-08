@@ -46,10 +46,14 @@ Reaper is a Digital Audio Workstation (DAW), which we will be using to _sequence
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://www.reaper.fm/download.php" target="_blank" class="btn btn--primary">Install Reaper from this link.</a></span>   
 
+<img src="/MHL-studio-methods/assets/images/Reaper-DAW-software-1.png" alt="Reaper interface">  
+
 ### Extra Packages for Reaper  
 
 To make Reaper more useful, we may occasionally install extra software libraries for use with Reaper.  
 _At the moment, there are no libraries to install, but we may include a list of them below throughout the semester:_   
+
+* * *  
 
 ## SpatGRIS  
 
@@ -59,11 +63,19 @@ SpatGRIS is an audio spatialization tool that we will use to make our final piec
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://gris.musique.umontreal.ca/" target="_blank" class="btn btn--primary">Informational page about SpatGRIS</a></span>   
 
+<img src="/MHL-studio-methods/assets/images/spatGRIS.png" alt="spatGRIS interface">  
+
+* * *   
+
 ## SPEAR    
 
 SPEAR is an application for audio analysis/resynthesis. We use SPEAR to “dissect” a sound into its component frequencies and to represent that sound on an interactive spectrographical editor.  
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://www.klingbeil.com/spear/downloads/" target="_blank" class="btn btn--primary">Download SPEAR here.</a></span>   
+
+<img src="/MHL-studio-methods/assets/images/spear_screen_bigsur.png" alt="SPEAR interface">  
+
+* * *   
 
 ## MaxMSP      
 
@@ -72,6 +84,8 @@ _Download + install the current build from:_ <span style="font-size: smaller; te
 Most recent releases should support our work in class, however. 
 
 At the time of this publication, all software for the class was tested up to Max version 8.5.2 (c9ba072623d) (x64 mac rosetta) on macOS version 12.3 (Build 21E230) x86_64 Rosetta.   
+
+<img src="/MHL-studio-methods/assets/images/maxmsp_interface.png" alt="MaxMSP interface">  
 
 ### Temporary Max License Keys   
 
@@ -126,15 +140,15 @@ To begin, in MaxMSP go to `File > Show Package Manager`.
 
 In the Package Manager window that pops up, type the name of a package, e.g., `miraweb`, in the search bar at the upper-right, and then click the MiraWeb package at the bottom to install:  
 
-<img src="/assets/images/01.package.manager.png" alt="package manager">
+<img src="/MHL-studio-methods/assets/images/01.package.manager.png" alt="package manager">
 
 On the next page, click the <span style="font-weight: bold; color: lightblue;">blue</span> `Install` button:
 
-<img src="/assets/images/02.install.png" alt="install">
+<img src="/MHL-studio-methods/assets/images/02.install.png" alt="install">
 
 When finished, you should see a <span style="font-weight: bold; color: lightblue;">blue</span> `Launch` button and a "Successfully installed Miraweb" message:
 
-<img src="/assets/images/03.success.png" alt="install">
+<img src="/MHL-studio-methods/assets/images/03.success.png" alt="install">
 
 From here, you can simply close the Package Manager window.  
 
@@ -325,17 +339,19 @@ _Check your operating system for compatibility and install one of these:_
 	<a href="https://code.visualstudio.com/download/" target="_blank" class="btn btn--primary">Visual Studio Code</a> <a href="https://www.sublimetext.com/" target="_blank" class="btn btn--primary">Sublime Text</a> <a href="https://espressoapp.com/" target="_blank" class="btn btn--primary">Espresso</a> <a href="https://brackets.io/" target="_blank" class="btn btn--primary">Brackets.io</a>
 </span> -->
 
-#### Digital Audio Workstations (DAWs)   
+<!-- #### Digital Audio Workstations (DAWs)   
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://www.reaper.fm/download.php/" target="_blank" class="btn btn--primary">Reaper</a> <a href="https://www.ableton.com/en/trial/" target="_blank" class="btn btn--primary">Ableton Live</a>
-</span>
+</span> -->
+
+* * *   
 
 #### Audio Analysis Tools   
 
-<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
-	<a href="https://logiciels.pierrecouprie.fr/" target="_blank" class="btn btn--primary">iAnalyse</a> <a href="https://www.izotope.com/en/rx.html?" target="_blank" class="btn btn--primary">iZotope RX</a> <a href="https://www.klingbeil.com/spear/" target="_blank" class="btn btn--primary">SPEAR</a>
-</span>
+<a href="https://logiciels.pierrecouprie.fr/" target="_blank" class="btn btn--primary">iAnalyse</a>  
+
+<img src="/MHL-studio-methods/assets/images/ianalyse_interface.png" alt="iAnalyse interface">  
 
 ### Free Sample Libraries    
 
