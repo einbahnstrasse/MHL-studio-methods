@@ -13,6 +13,8 @@ toc_label: "Software + Resources"
 toc_icon: "laptop"  
 toc_sticky: true   
 read_time: true  
+show_date: true  
+date_format: "%Y-%m-%d"  
 date: 2023-08-01  
 last_modified_at: 2023-08-28   
 
@@ -35,6 +37,34 @@ A list of stuff we'll be using throughout the course.
 
 _Be sure to install + test these before you arrive in class._   
 
+_For all software below, be sure sure to choose the version that matches your computer’s operating system (e.g., Windows, macOS, Linux, etc.)._  
+
+
+## Reaper   
+
+Reaper is a Digital Audio Workstation (DAW), which we will be using to _sequence_ and _edit_ our audio throughout the semester. 
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://www.reaper.fm/download.php" target="_blank" class="btn btn--primary">Please install Reaper from this link.</a></span>   
+
+### Extra Packages for Reaper  
+
+To make Reaper more useful, we may occasionally install extra software libraries for use with Reaper.  
+_At the moment, there are no libraries to install, but we may include a list of them below throughout the semester:_   
+
+## SpatGRIS  
+
+SpatGRIS is an audio spatialization tool that we will use to make our final pieces for the semester.  
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://sourceforge.net/projects/spatgris3/files/" target="_blank" class="btn btn--primary">Download SpatGRIS here.</a></span>   
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://gris.musique.umontreal.ca/" target="_blank" class="btn btn--primary">Informational page about SpatGRIS</a></span>   
+
+## SPEAR    
+
+SPEAR is an application for audio analysis/resynthesis. We use SPEAR to “dissect” a sound into its component frequencies and to represent that sound on an interactive spectrographical editor.  
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://www.klingbeil.com/spear/downloads/" target="_blank" class="btn btn--primary">Download SPEAR here.</a></span>   
+
 ## MaxMSP      
 
 _Download + install the current build from:_ <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://cycling74.com/downloads" target="_blank" class="btn btn--primary">MaxMSP</a></span>
@@ -55,17 +85,17 @@ If a license key is free, I can make it available to you for the duration of thi
 
 ## Max Packages + Libraries     
 
-A rolling list of Max packages that we will be using.   
-_We may add to this list throughout the semester:_   
+To make MaxMSP more useful, we may occasionally install extra software libraries for use with MaxMSP.  
+_At the moment, there are no libraries to install, but we may include a list of them below throughout the semester:_   
 
-<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
+<!-- <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	1. <a href="https://www.bachproject.net/dl/" target="_blank" class="btn btn--primary">bach</a> for computer-assisted composition   
 	2. <a href="https://forum.ircam.fr/projects/detail/spat/" target="_blank" class="btn btn--primary">IRCAM spat~</a> for multichannel audio spatialization   
 	3. <a href="https://forum.ircam.fr/projects/detail/modalys/" target="_blank" class="btn btn--primary">IRCAM Modalys</a> for physical modeling ("modal") synthesis   
 	4. <a href="https://github.com/maccallum/x/" target="_blank" class="btn btn--primary">X</a> for random number generation and distribution   
-</span>
+</span> -->
 
-### Manual Package Installation   
+<!-- ### Manual Package Installation   
 
 Of the packages listed above, #1 can be installed directly from the [Max Package Manager](#using-the-max-package-manager) _(see description below)_. 
 
@@ -86,11 +116,11 @@ To acquire Max packages #2 and #3 above, you must create a **free** account on t
 
 Once you register, you'll be able to download Modalys and Spat.  
 
-These packages are free and will not incure any additional costs.  
+These packages are free and will not incure any additional costs.   -->
 
 ### Using the Max Package Manager   
 
-Some packages can be instantly installed through the [Max Package Manager](https://docs.cycling74.com/max7/vignettes/package_manager){:target="_blank"}, such as #1 above, bypassing the need to manually unzip and move any folders into specific locations. 
+Some packages can be instantly installed through the [Max Package Manager](https://docs.cycling74.com/max7/vignettes/package_manager){:target="_blank"}, bypassing the need to manually unzip and move any folders into specific locations.  
 
 To begin, in MaxMSP go to `File > Show Package Manager`.   
 
@@ -110,9 +140,7 @@ From here, you can simply close the Package Manager window.
 
 Repeat these step to quickly install additional packages.  
 
-_Unfortunately, this method does not work for the IRCAM packages, which must be installed manually from the IRCAM Forum website, as described in [Manual Package Installation](#manual-package-installation) above._  
-
-## Windows: Terminal Emulator   
+<!-- ## Windows: Terminal Emulator   
 
 If your computer runs a Windows operating system, you'll need a program that mimics the behavior of the Unix command line.
 
@@ -246,7 +274,7 @@ brew install git-lfs
 
 Follow the steps outlined in the video tutorial below to set everything up:  
 
-{% include video id="HLyoH7xfoF8" provider="youtube" %}
+{% include video id="HLyoH7xfoF8" provider="youtube" %} -->
 
 <!-- 
 ## 6. Google Chrome  
@@ -287,7 +315,7 @@ _**pip** is the standard package manager for the Python language, allowing you t
 
 ### Software      
 
-#### Text Editor  
+<!-- #### Text Editor  
 
 Highlight your code, easily find & replace, and a LOT more... 
 
@@ -295,7 +323,7 @@ _Check your operating system for compatibility and install one of these:_
 
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://code.visualstudio.com/download/" target="_blank" class="btn btn--primary">Visual Studio Code</a> <a href="https://www.sublimetext.com/" target="_blank" class="btn btn--primary">Sublime Text</a> <a href="https://espressoapp.com/" target="_blank" class="btn btn--primary">Espresso</a> <a href="https://brackets.io/" target="_blank" class="btn btn--primary">Brackets.io</a>
-</span>
+</span> -->
 
 #### Digital Audio Workstations (DAWs)   
 
