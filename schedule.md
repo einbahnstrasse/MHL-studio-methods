@@ -41,17 +41,18 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *  
 
 ## Week 1: {{ site.week-01 }}  
+### What is Sound?  
 
 <!-- ### [Week #1 Survey/Quiz — Personal Info, Syllabus Elements](https://forms.gle/HeYNxzVSuG67M3Nb8){:target="_blank"}   -->
 <!-- * _Complete the quizlet above as part of today's participation._   -->
 
-### Start-of-Semester Business  
+#### Start-of-Semester Business  
 
 * Review [Syllabus + course policies](/MHL-studio-methods/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading](/MHL-studio-methods/grading.html){:target="_blank"}  
 <!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
-### Tutorials
+#### Tutorials
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
 * [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
@@ -77,12 +78,14 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- <a id="w2"></a> -->
 <!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
 ## Week 2: {{ site.week-02 }}  
+### Introduction to Reaper: Basic Soundfile Treatments   
 
-### Tutorials  
+#### Tutorials  
 * [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: What is MIDI? (Slides 1-24) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
-### Assignments  
+#### Assignments  
+* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm.html){:target="_blank"}   
 
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files  
@@ -105,51 +108,50 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 3: {{ site.week-03 }}  
-<!-- ### Version Control: Introduction to GIT, Concepts + Basic Commands   -->
+### Reaper: Plugins and Automation     
 
-### Tutorials  
+#### Tutorials  
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: Software + Hardware (Slides 25-32) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
-### Assignments  
+#### Assignments  
+* <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
 
 
 * * *
 
 ## Week 4: {{ site.week-04 }}  
-<!-- ### Version Control: Local/Remote Repositories + Collaboration Via _GitHub_   -->
+### Reaper: Sampling and MIDI controllers    
 
-### Tutorials  
+#### Tutorials  
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
-
-
-### Assignments  
+#### Assignments  
 
 
 * * *
 
 ## Week 5: {{ site.week-05 }}  
-<!-- ### JavaScript + Python: Introduction, Variables, Types, Input/Output -->
+### Mixing Concepts   
 
-### Tutorials  
+#### Tutorials  
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-?) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+* [Types of Microphones](#){:target="_blank"}  
 
-### Assignments  
+#### Assignments  
 
 
 * * *
 
 ## Week 6: {{ site.week-06 }}  
-<!-- ### Review: Version Control + Basic JavaScript/Python   -->
+### _No Class!_   
 
 ### Tutorials  
 
 ### Assignments  
-
-
+* <span style="color: red;"><em>Deadline for <a href="MHL-studio-methods/midterm.html">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 
 * * *
 

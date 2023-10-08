@@ -191,6 +191,7 @@ _Participation is based on attendance and your engagement in class, and will for
   3. After these first 2 steps, contact the instructor with any additional questions.   
 
 * **Absences/tardiness must be accompanied by documentation** and/or include advance notice with the instructor. Absences/tardiness will not impact on your grade if they are reported in advance and if they are infrequent. Absences will be excused in cases of: documentation of illness provided by a doctor's note, religious observance with advance notice, official school-related activity (always with documentation and advanced notice), and on a case-by-case basis for other critical events, at the discretion of the instructor.  
+* Planned absences should be reported to the instructor by our Week 3 class _(see our [Schedule](/schedule){:target="_blank"} page)._   
 * _A lack of communication with the instructor about planned absences will therefore be treated as **unexcused**. Be in touch early._   
 * **Absences and lateness may result in a lack of understanding of our materials, which will become evident in your project and/or exam work, and therefore will result in lower exam and project scores.** 
 
