@@ -44,7 +44,7 @@ _For all software below, be sure sure to choose the version that matches your co
 
 Reaper is a Digital Audio Workstation (DAW), which we will be using to _sequence_ and _edit_ our audio throughout the semester. 
 
-<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://www.reaper.fm/download.php" target="_blank" class="btn btn--primary">Please install Reaper from this link.</a></span>   
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://www.reaper.fm/download.php" target="_blank" class="btn btn--primary">Install Reaper from this link.</a></span>   
 
 ### Extra Packages for Reaper  
 
