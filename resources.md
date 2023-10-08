@@ -353,7 +353,7 @@ _Check your operating system for compatibility and install one of these:_
 
 <a href="https://logiciels.pierrecouprie.fr/" target="_blank" class="btn btn--primary">iAnalyse</a>  
 
-<img src="/MHL-studio-methods/assets/images/ianalyse_interface.png" alt="iAnalyse interface">  
+<img src="/MHL-studio-methods/assets/images/ianalyse_interface.v01.png" alt="iAnalyse interface">  
 
 ### Free Sample Libraries    
 
