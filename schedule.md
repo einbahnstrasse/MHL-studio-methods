@@ -52,7 +52,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 <!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
 ### Tutorials
-* [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}  
+* [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
+* [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
 <!-- #### Video Tutorial
 ##### Stepping Through Week 1 Slides + Labs    
@@ -78,6 +79,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 2: {{ site.week-02 }}  
 
 ### Tutorials  
+* [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to MIDI: What is MIDI? (Slides 1-24) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 ### Assignments  
 
@@ -105,6 +108,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- ### Version Control: Introduction to GIT, Concepts + Basic Commands   -->
 
 ### Tutorials  
+* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to MIDI: Software + Hardware (Slides 25-32) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 ### Assignments  
 
@@ -115,6 +120,10 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- ### Version Control: Local/Remote Repositories + Collaboration Via _GitHub_   -->
 
 ### Tutorials  
+* [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+
+
 
 ### Assignments  
 
@@ -125,6 +134,8 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- ### JavaScript + Python: Introduction, Variables, Types, Input/Output -->
 
 ### Tutorials  
+* [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-?) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 ### Assignments  
 
