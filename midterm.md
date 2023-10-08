@@ -20,7 +20,7 @@ last_modified_at: 2023-08-28
 
 ## Midterm: 3-Minute Stereo Sketch  
 
-<span style="color: red;"><h3>deadline: Week 6: {{ site.week-06 }}</h3></span>  
+<h3><span style="color: red;">deadline: Week 6: {{ site.week-06 }}</span></3>   
 
 The midterm is a “sketch” for a fixed-media piece, which you can treat as a “preview” of your final piece as you are developing your ideas.  
 

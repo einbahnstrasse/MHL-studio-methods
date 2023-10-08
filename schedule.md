@@ -85,7 +85,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Introduction to MIDI: What is MIDI? (Slides 1-24) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 #### Assignments  
-* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm.html){:target="_blank"}   
+* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
 
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files  
@@ -151,7 +151,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### Tutorials  
 
 ### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm.html">Midterm: 3-Minute Stereo Sketch</a></em></span>   
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 
 * * *
 
