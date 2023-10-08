@@ -51,6 +51,7 @@ Reaper is a Digital Audio Workstation (DAW), which we will be using to _sequence
 ### Extra Packages for Reaper  
 
 To make Reaper more useful, we may occasionally install extra software libraries for use with Reaper.  
+
 _At the moment, there are no libraries to install, but we may include a list of them below throughout the semester:_   
 
 * * *  
@@ -79,9 +80,9 @@ SPEAR is an application for audio analysis/resynthesis. We use SPEAR to “disse
 
 ## MaxMSP      
 
-_Download + install the current build from:_ <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://cycling74.com/downloads" target="_blank" class="btn btn--primary">MaxMSP</a></span>
+_Download + install the current build from:_ <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://cycling74.com/downloads" target="_blank" class="btn btn--primary">MaxMSP</a></span>  
 
-Most recent releases should support our work in class, however. 
+Most recent releases should support our work in class, however.  
 
 At the time of this publication, all software for the class was tested up to Max version 8.5.2 (c9ba072623d) (x64 mac rosetta) on macOS version 12.3 (Build 21E230) x86_64 Rosetta.   
 
@@ -100,6 +101,7 @@ If a license key is free, I can make it available to you for the duration of thi
 ## Max Packages + Libraries     
 
 To make MaxMSP more useful, we may occasionally install extra software libraries for use with MaxMSP.  
+
 _At the moment, there are no libraries to install, but we may include a list of them below throughout the semester:_   
 
 <!-- <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
