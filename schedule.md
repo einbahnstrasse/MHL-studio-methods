@@ -151,7 +151,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### Tutorials  
 
 ### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="MHL-studio-methods/midterm.html">Midterm: 3-Minute Stereo Sketch</a></em></span>   
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm.html">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 
 * * *
 
