@@ -48,7 +48,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Start-of-Semester Business  
 
-* Review [Syllabus + Course Policies](/MHL-studio-methods/){:target="_blank"}  
+* Review [Syllabus, Course Policies](/MHL-studio-methods/){:target="_blank"}  
+* Review [Software + Resources](/MHL-studio-methods/resources/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading](/MHL-studio-methods/grading.html){:target="_blank"}  
 <!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
@@ -147,7 +148,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Tutorials  
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-?) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
-* [Types of Microphones](#){:target="_blank"}  
+* [Microphone, Speaker, and Cable Types](#){:target="_blank"}  
 
 #### Assignments  
 
