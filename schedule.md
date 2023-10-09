@@ -56,6 +56,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
 * [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
+#### Assignments  
+* <span style="color: red;"><em>Install Reaper (See Resources page for instructions.)</em></span>  
+
+
 <!-- #### Video Tutorial
 ##### Stepping Through Week 1 Slides + Labs    
 
