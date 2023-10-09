@@ -183,7 +183,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank"></a>Frequency Domain Editing with SPEAR</td>
+<td markdown="span"><a href="schedule/#w10" target="_blank">Frequency Domain Editing with SPEAR</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>
