@@ -38,7 +38,7 @@ last_modified_at: 2023-08-28
 <!-- # Schedule -->
 _This page will be updated frequently with examples, video tutorials, links to new resources, and occasional updates to LAB ASSIGNMENTS. Our schedule follows the [Current MHL Academic Calendar]({{ site.MHL-calendar }}){:target="_blank"}. The following topics and their precise order may change. Check here for updates!_  
 
-* * *  
+* * *   
 
 ## Week 1: {{ site.week-01 }}  
 ### What is Sound?  
@@ -48,7 +48,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Start-of-Semester Business  
 
-* Review [Syllabus + course policies](/MHL-studio-methods/){:target="_blank"}  
+* Review [Syllabus + Course Policies](/MHL-studio-methods/){:target="_blank"}  
 * Review [Detailed Breakdown of Grading](/MHL-studio-methods/grading.html){:target="_blank"}  
 <!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
@@ -59,6 +59,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Assignments  
 * <span style="color: red;">Install Reaper before Week 2 <em>(See Resources page for instructions).</em></span>  
 * <span style="color: red;">Join our Discord Server before Week 2 <em>(See Syllabus page for details).</em></span>  
+* [Auditory Vantage Point (due by Week 3)](/MHL-studio-methods/auditory-vantage-point/){:target="_blank"}   
 
 
 <!-- #### Video Tutorial
@@ -133,6 +134,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 #### Assignments  
+* <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  
 * Assign + discuss the [Microphone Cable Coiling](/MHL-studio-methods/XLR-cable-coiling/){:target="_blank"} Assignment.  
 
 
