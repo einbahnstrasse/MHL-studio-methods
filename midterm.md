@@ -30,7 +30,7 @@ By the deadline, send me a soundfile and your Reaper project folder (by email, W
 
 ### Criteria   
 
-* Ideally, your sketch is around 3-minutes long, but of course, this may vary depending on your material and your compositional approach. It can be a longer excerpt, but not much shorter.  
+* Ideally, your sketch is around **3-minutes in duration**, but of course, this **may vary** depending on your material and your compositional approach. It can be a longer excerpt, but not much shorter.  
 * Prepare your sketch **in a Reaper session**. Any sound files you use should also be contained inside your Reaper project folder.  
 * Sketches should be your own, original work, focusing on your manipulation of the source sounds that interest you.  
 * Include **at least 2 source sound files** and/or synthesis clips.  
@@ -39,6 +39,6 @@ By the deadline, send me a soundfile and your Reaper project folder (by email, W
 * These tracks may include any number of **plugin** devices.  
 * If you use plugins, include a **list** of them: _Your mix must be transferrable and able to play on another computer._  
 * Strive for **tonal balance in your mix**. For example, use **EQ** and **compression** to improve the interaction between the sounds in your tracks.   
-* Sound files should be exported at a **sample rate of 48 kHz** and a **bit rate of 24 bits** (48 kHz / 24 bits).   
+* Sound files and samples should be exported at a **sample rate of 48 kHz** and a **bit rate of 24 bits** (48 kHz / 24 bits).   
 
 _Note that we will not be having class during the day of the deadline._  

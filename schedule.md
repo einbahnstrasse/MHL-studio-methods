@@ -57,7 +57,8 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 
 #### Assignments  
-* <span style="color: red;"><em>Install Reaper (See Resources page for instructions.)</em></span>  
+* <span style="color: red;">Install Reaper before Week 2 <em>(See Resources page for instructions).</em></span>  
+* <span style="color: red;">Join our Discord Server before Week 2 <em>(See Syllabus page for details).</em></span>  
 
 
 <!-- #### Video Tutorial
@@ -132,12 +133,14 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 #### Assignments  
+* Assign + discuss the [Microphone Cable Coiling](/MHL-studio-methods/XLR-cable-coiling/){:target="_blank"} Assignment.  
+
 
 
 * * *
 
 ## Week 5: {{ site.week-05 }}  
-### Mixing Concepts   
+### Mixing Part I       
 
 #### Tutorials  
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-?) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
@@ -152,90 +155,94 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 6: {{ site.week-06 }}  
 ### _No Class!_   
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 * <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 
 * * *
 
 ## Week 7: {{ site.week-07 }}  
+### Mixing Part II       
+
 <!-- ### Javascript + Python: Conditionals -->
 <!-- <p class="redish"><i>Spring Recess 3/27-4/4. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2021.pdf" target="_blank">CityTech Spring 2021 Schedule.</a></i></p> -->  
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
-
+#### Assignments  
+* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
 
 * * *
 
 ## Week 8: {{ site.week-08 }}  
+### Multichannel Spatial Audio   
 <!-- ### JavaScript + Python: For Loops   -->
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
-
+#### Assignments  
+* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/midterm/final-multichannel-fixed-piece/){:target="_blank"}.  
+* <span style="color: red;">Install MaxMSP before Week 9 <em>(See Resources page for instructions).</em></span>  
 
 
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-<!-- ### Javascript + Python: Function Definitions + Function Calls -->
+### Introduction to MaxMSP   
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-<!-- ### Introduction to Python Data Visualization + Mapping -->
-<!-- ### Review Week   -->
+### Frequency Domain Editing with SPEAR   
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-<!-- ### Javascript + Python: More Kinds of Loops    -->
+### Max: Filtering
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 
 
 * * *
 
 ## Week 12: {{ site.week-12 }}  
-<!-- ### HTML/CSS: Introduction   -->
+### Max: Time Domain Treatments   
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 
 * * *
 
 ## Week 13: {{ site.week-13 }}  
-<!-- ### HTML/CSS: Drawing on Web Pages (Using JavaScript + HTML Canvas) -->
+### Werkstatt für Aktuelle Musik (January 17-20, 2024)   
 
-### Tutorials  
+_No class! Setup and tear-down for concerts all week._   
 
-### Assignments  
+#### Tutorials  
 
-
+#### Assignments  
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>   
 
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-<!-- ### _GitHub Pages_, Advanced Web Design + Layout -->
+_Coming Soon!_   
 
 ### Tutorials  
 
@@ -245,7 +252,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 15: {{ site.week-15 }}  
-<!-- ### Complete + Present Final Assignments -->
+_Coming Soon!_   
 
 ### Tutorials  
 
@@ -255,7 +262,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 16: {{ site.week-16 }}  
-<!-- ### Complete + Present Final Assignments -->
+_Coming Soon!_   
 
 ### Tutorials  
 
@@ -265,7 +272,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 17: {{ site.week-17 }}  
-<!-- ### Complete + Present Final Assignments -->
+_No class!_   
 
 ### Tutorials  
 

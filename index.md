@@ -57,7 +57,7 @@ _If you're viewing this syllabus on a projected screen, bookmark our site at the
 
 ## 2. Course Description    
 
-**Electronic Studio Methods and Composition** is a first-semester foundational course in electronic music and sound art, introducing students to the studio enviornment and to the rudiments of digital creation, recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. Central topics may change from one semester to the next as a result of its flexible structure. This semester will focus on **multichannel fixed media composition**: students will create a fixed media piece ("tape piece") for 16 loudspeakers to be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024). 
+**Electronic Studio Methods and Composition** is a first-semester foundational course in electronic music and sound art, introducing students to the studio enviornment and to the rudiments of digital creation, recording, mixing, post production, synthesis and MIDI, computer music, and spatial audio. Central topics may change from one semester to the next as a result of its flexible structure. This semester will focus on **multichannel fixed media composition**: students will create a fixed media piece ("tape piece") for 8 loudspeakers to be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024). 
 
 Weekly seminars are structured with an emphasis on creating, transforming, and sculpting sounds. Classes will frequently consist of software tutorials and in-class demonstrations that can quickly integrate into personal artistic projects. Students will be required to complete a number of smaller graded assignments, culminating in a final piece. Each week focuses on a new topic that builds upon work completed in the previous week. _**Students are therefore expected to attend regularly.**_ Students should communicate about course materials on our MHL Discord Server. There is a **midterm exam**: a 3-minute stereo fixed media "sketch." This sketch can expanded upon and made into the **final exam**: a 10-minute multichannel work for the concert.    
 
@@ -234,88 +234,88 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">1</td>
 <td markdown="span">{{ site.week-01 }}</td>
-<td markdown="span"><a href="schedule/#w1" target="_blank">Introduction to the BACH library<br>for Computer-Assisted Composition (CAO)</a></td>
+<td markdown="span"><a href="schedule/#w1" target="_blank">What is Sound?</td>
 </tr>
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">{{ site.week-02 }}</td>
-<td markdown="span"><a href="schedule/#w2" target="_blank">BACH and Polysynthesis in MaxMSP</a></td>
+<td markdown="span"><a href="schedule/#w2" target="_blank">Introduction to Reaper:<br>Basic Soundfile Treatments</a></td>
 </tr>
 <tr>
 <td markdown="span">3</td>
 <td markdown="span">{{ site.week-03 }}</td>
-<td markdown="span"><a href="schedule/#w3" target="_blank">Spectral and Microtonal Harmony</a></td>
+<td markdown="span"><a href="schedule/#w3" target="_blank">Reaper: Plugins and Automation</a></td>
 </tr>
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">{{ site.week-04 }}</td>
-<td markdown="span"><a href="schedule/#w4" target="_blank">Using Randomness and Distributions</a></td>
+<td markdown="span"><a href="schedule/#w4" target="_blank">Reaper: Sampling and MIDI controllers</a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">Real-Time Analysis and Resynthesis</a></td>
+<td markdown="span"><a href="schedule/#w5" target="_blank">Mixing Part I</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
 <td markdown="span">{{ site.week-06 }}</td>
-<td markdown="span"><a href="schedule/#w6" target="_blank">Generating Scales, Harmonies, and Chords</a></td>
+<td markdown="span"><a href="schedule/#w6" target="_blank"><em>No class!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">Chaotic Attractors</a></td>
+<td markdown="span"><a href="schedule/#w7" target="_blank">Mixing Part II</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">{{ site.week-08 }}</td>
-<td markdown="span"><a href="schedule/#w8" target="_blank">Interpolation of Pitch and Rhythm</a>
+<td markdown="span"><a href="schedule/#w8" target="_blank">Multichannel Spatial Audio</a>
 </td>
 </tr>
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Operations on Rhythm</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">Introduction to MaxMSP</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">Introduction to SPAT~ for Multichannel Audio Spatialization</a></td>
+<td markdown="span"><a href="schedule/#w10" target="_blank"></a>Frequency Domain Editing with SPEAR</td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">{{ site.week-11 }}</td>
-<td markdown="span"><a href="schedule/#w11" target="_blank">Concert Patch Design</a></td>
+<td markdown="span"><a href="schedule/#w11" target="_blank">Max: Filtering</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">{{ site.week-12 }}</td>
-<td markdown="span"><a href="schedule/#w12" target="_blank">Mirrors and Fractals: Webern and Risset</a></td>
+<td markdown="span"><a href="schedule/#w12" target="_blank">Max: Time Domain Treatments</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
 <td markdown="span">{{ site.week-13 }}</td>
-<td markdown="span"><a href="schedule/#w13" target="_blank">Generation of Harmony: Boulez and Vivier</a></td>
+<td markdown="span"><a href="schedule/#w13" target="_blank">Werkstatt für Aktuelle Musik</a></td>
 </tr>
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank">Advanced FM: Chowning <i>Stria</i></a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank"><em>Coming Soon!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank">Advanced FM: DX7 Emulation</a></td>
+<td markdown="span"><a href="schedule/#w15" target="_blank"><em>Coming Soon!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="schedule/#w16" target="_blank">Physical Modeling ("Modal" Synthesis), Part I: Max Library</a></td>
+<td markdown="span"><a href="schedule/#w16" target="_blank"><em>Coming Soon!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
-<td markdown="span"><a href="schedule/#w17" target="_blank">Physical Modeling ("Modal" Synthesis), Part II: Finite Elements</a></td>
+<td markdown="span"><a href="schedule/#w17" target="_blank"><em>No class!</em></a></td>
 </tr>
 </tbody>
 </table>

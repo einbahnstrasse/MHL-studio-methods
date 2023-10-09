@@ -66,6 +66,24 @@ SpatGRIS is an audio spatialization tool that we will use to make our final piec
 
 <img src="/MHL-studio-methods/assets/images/spatGRIS.png" alt="spatGRIS interface">  
 
+### BlackHole or JACK  
+
+To route multi-channel audio signals from our DAW (Reaper) into SpatGRIS, we need another program.  
+
+If you are a macOS user, download and install     
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://existential.audio/blackhole/" target="_blank" class="btn btn--primary">BlackHole</a></span>   
+
+If you are a Windows user, download and install   
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://jackaudio.org/downloads/" target="_blank" class="btn btn--primary">JACK</a></span>   
+
+Windows users: watch this instructional video for using SpatGRIS with JACK:   
+
+{% include video id="hrX9ZdK2DPM" provider="youtube" %}
+
+
+
 * * *   
 
 ## SPEAR    
