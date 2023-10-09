@@ -137,92 +137,92 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">1</td>
 <td markdown="span">{{ site.week-01 }}</td>
-<td markdown="span"><a href="schedule/#w1" target="_blank">Introduction to the BACH library<br>for Computer-Assisted Composition (CAO)</a></td>
+<td markdown="span"><a href="schedule/#w1" target="_blank">What is Sound?</td>
 </tr>
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">{{ site.week-02 }}</td>
-<td markdown="span"><a href="schedule/#w2" target="_blank">BACH and Polysynthesis in MaxMSP</a></td>
+<td markdown="span"><a href="schedule/#w2" target="_blank">Introduction to Reaper:<br>Basic Soundfile Treatments</a></td>
 </tr>
 <tr>
 <td markdown="span">3</td>
 <td markdown="span">{{ site.week-03 }}</td>
-<td markdown="span"><a href="schedule/#w3" target="_blank">Spectral and Microtonal Harmony</a></td>
+<td markdown="span"><a href="schedule/#w3" target="_blank">Reaper: Plugins and Automation</a></td>
 </tr>
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">{{ site.week-04 }}</td>
-<td markdown="span"><a href="schedule/#w4" target="_blank">Using Randomness and Distributions</a></td>
+<td markdown="span"><a href="schedule/#w4" target="_blank">Reaper: Sampling and MIDI controllers</a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">Real-Time Analysis and Resynthesis</a></td>
+<td markdown="span"><a href="schedule/#w5" target="_blank">Mixing Part I</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
 <td markdown="span">{{ site.week-06 }}</td>
-<td markdown="span"><a href="schedule/#w6" target="_blank">Generating Scales, Harmonies, and Chords</a></td>
+<td markdown="span"><a href="schedule/#w6" target="_blank"><em>No class!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">Chaotic Attractors</a></td>
+<td markdown="span"><a href="schedule/#w7" target="_blank">Mixing Part II</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">{{ site.week-08 }}</td>
-<td markdown="span"><a href="schedule/#w8" target="_blank">Interpolation of Pitch and Rhythm</a>
+<td markdown="span"><a href="schedule/#w8" target="_blank">Multichannel Spatial Audio</a>
 </td>
 </tr>
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Operations on Rhythm</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">Introduction to MaxMSP</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">Introduction to SPAT~ for Multichannel Audio Spatialization</a></td>
+<td markdown="span"><a href="schedule/#w10" target="_blank"></a>Frequency Domain Editing with SPEAR</td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">{{ site.week-11 }}</td>
-<td markdown="span"><a href="schedule/#w11" target="_blank">Concert Patch Design</a></td>
+<td markdown="span"><a href="schedule/#w11" target="_blank">Max: Filtering</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">{{ site.week-12 }}</td>
-<td markdown="span"><a href="schedule/#w12" target="_blank">Mirrors and Fractals: Webern and Risset</a></td>
+<td markdown="span"><a href="schedule/#w12" target="_blank">Max: Time Domain Treatments</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
 <td markdown="span">{{ site.week-13 }}</td>
-<td markdown="span"><a href="schedule/#w13" target="_blank">Generation of Harmony: Boulez and Vivier</a></td>
+<td markdown="span"><a href="schedule/#w13" target="_blank">Werkstatt für Aktuelle Musik</a></td>
 </tr>
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank">Advanced FM: Chowning <i>Stria</i></a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank"><em>Coming Soon!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank">Advanced FM: DX7 Emulation</a></td>
+<td markdown="span"><a href="schedule/#w15" target="_blank"><em>Coming Soon!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="schedule/#w16" target="_blank">Physical Modeling ("Modal" Synthesis), Part I: Max Library</a></td>
+<td markdown="span"><a href="schedule/#w16" target="_blank"><em>Coming Soon!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
-<td markdown="span"><a href="schedule/#w17" target="_blank">Physical Modeling ("Modal" Synthesis), Part II: Finite Elements</a></td>
+<td markdown="span"><a href="schedule/#w17" target="_blank"><em>No class!</em></a></td>
 </tr>
 </tbody>
 </table>
-</div>
+</div>   
 
 
 
@@ -313,9 +313,9 @@ I understand the value of personal integrity and ethical behavior in all aspects
 2. Only turning in work that I have done myself, and not using unattributed work done by others. While working and studying with others can be an effective way to learn, submitted work will be my own.  
 3. Giving full and proper credit to sources and references, and acknowledging the contributions and ideas of others, in my academic work.  
 
-Further, I have read and understand the college’s [Academic Integrity Policy found in the New York City College of Technology College Catalog, p. 56 of the spring 2020 catalog.](http://www.citytech.cuny.edu/catalog/docs/catalog.pdf#page=56){:target="_blank"}  
+<!-- Further, I have read and understand the college’s [Academic Integrity Policy found in the New York City College of Technology College Catalog, p. 56 of the spring 2020 catalog.](http://www.citytech.cuny.edu/catalog/docs/catalog.pdf#page=56){:target="_blank"}  
 
-(Modified from the Marquette University Honor Code, PB, RB; AM; 12/23/2020)  
+(Modified from the Marquette University Honor Code, PB, RB; AM; 12/23/2020)   -->
 
 
 
@@ -390,11 +390,11 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 
 ## Course Accommodations for Students with Disabilities    
 
-In order to receive disability-related academic accommodations students must first be registered with the Student Support Services Program (SSSP). Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with Ms. Linda Buist, the program manager of SSSP (Phone: 718–260–5143, e-mail: <a href="mailto:buist@citytech.cuny.edu">buist@citytech.cuny.edu</a>). If you have already registered with SSSP, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her/them.  
+In order to receive disability-related academic accommodations students must contact [Inclusion at MHL](https://www.mh-luebeck.de/en/studium/inclusion/){:target="_blank"}.     
 
 ## A Note on City Tech’s Counseling Center   
 
-The Counseling Services Center supports the educational, emotional and career development of City Tech students by providing opportunities for skill development, counseling and referrals that address obstacles to success. The Center is currently available to students remotely. For questions and appointments, contact the Center at <a href="mailto:counseling@citytech.cuny.edu">counseling@citytech.cuny.edu</a> or 718-260-5030.
+The Psychological Counseling Services Center supports the educational, emotional and career development of MHL students by providing opportunities for skill development, counseling and referrals that address obstacles to success. For questions and appointments, more information can be found at [Psychological Counselling](https://www.mh-luebeck.de/de/studium/beratung/psychologische-beratung/){:target="_blank"}.   
 
 
 

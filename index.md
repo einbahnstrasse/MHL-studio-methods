@@ -319,7 +319,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 </tr>
 </tbody>
 </table>
-</div>
+</div>   
 
 ## 5. Academic Integrity Policy    
 
@@ -341,9 +341,9 @@ I understand the value of personal integrity and ethical behavior in all aspects
 2. Only turning in work that I have done myself, and not using unattributed work done by others. While working and studying with others can be an effective way to learn, submitted work will be my own.  
 3. Giving full and proper credit to sources and references, and acknowledging the contributions and ideas of others, in my academic work.  
 
-Further, I have read and understand the college’s [Academic Integrity Policy found in the New York City College of Technology College Catalog, p. 56 of the spring 2020 catalog.](http://www.citytech.cuny.edu/catalog/docs/catalog.pdf#page=56){:target="_blank"}  
+<!-- Further, I have read and understand the college’s [Academic Integrity Policy found in the New York City College of Technology College Catalog, p. 56 of the spring 2020 catalog.](http://www.citytech.cuny.edu/catalog/docs/catalog.pdf#page=56){:target="_blank"}  
 
-(Modified from the Marquette University Honor Code, PB, RB; AM; 12/23/2020)  
+(Modified from the Marquette University Honor Code, PB, RB; AM; 12/23/2020)   -->
 
 ## 6. General Grading Rubric   
 
@@ -416,11 +416,11 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 
 ## 7. Course Accommodations for Students with Disabilities    
 
-In order to receive disability-related academic accommodations students must first be registered with the Student Support Services Program (SSSP). Students who have a documented disability or suspect they may have a disability are invited to set up an appointment with Ms. Linda Buist, the program manager of SSSP (Phone: 718–260–5143, e-mail: <a href="mailto:buist@citytech.cuny.edu">buist@citytech.cuny.edu</a>). If you have already registered with SSSP, please provide your professor with the course accommodation form and discuss your specific accommodation with him/her/them.  
+In order to receive disability-related academic accommodations students must contact [Inclusion at MHL](https://www.mh-luebeck.de/en/studium/inclusion/){:target="_blank"}.     
 
 ### 7.1 Counseling Center   
 
-The Counseling Services Center supports the educational, emotional and career development of City Tech students by providing opportunities for skill development, counseling and referrals that address obstacles to success. The Center is currently available to students remotely. For questions and appointments, contact the Center at <a href="mailto:counseling@citytech.cuny.edu">counseling@citytech.cuny.edu</a> or 718-260-5030.
+The Psychological Counseling Services Center supports the educational, emotional and career development of MHL students by providing opportunities for skill development, counseling and referrals that address obstacles to success. For questions and appointments, more information can be found at [Psychological Counselling](https://www.mh-luebeck.de/de/studium/beratung/psychologische-beratung/){:target="_blank"}.   
 
 ## 8. Inclusivity    
 
