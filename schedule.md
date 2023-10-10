@@ -53,9 +53,13 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * Review [Detailed Breakdown of Grading](/MHL-studio-methods/grading.html){:target="_blank"}  
 <!-- * Review [Keys for Success in MTEC1003](/Goldford-MTEC1003/resources/week.01/keys.for.success.html){:target="_blank"}   -->
 
-#### Tutorials
+#### Tutorials  
 * [Let's Learn About Waveforms _(Interactive Guide)_](https://pudding.cool/2018/02/waveforms/){:target="_blank"}   
 * [Introduction to Digital Audio: What is Sound? (Slides 1-14) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+
+#### Listening   
+* [Hugh Le Caine, _Dripsody_ (1955)](https://youtu.be/zvHSvSBwFYM?si=5ZvFFPUpYwWrJ08L){:target="_blank"}  
+* [Joshua Banks Mailman‘s analysis of _Dripsody_](/MHL-studio-methods/assets/Mailman.Dripsody.Analysis.png){:target="_blank"}  
 
 #### Assignments  
 * <span style="color: red;">Install Reaper before Week 2 <em>(See Resources page for instructions).</em></span>  
