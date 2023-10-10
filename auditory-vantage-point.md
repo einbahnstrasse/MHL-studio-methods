@@ -62,3 +62,5 @@ That means **becoming an expert listener** is all about learning to actively tur
 
 {% include video id="pcHnL7aS64Y" provider="youtube" %}  
 
+> "'You mean it's just sounds?!' thinking that for something to be just a sound is to be useless, whereas I love sounds, just as they are. And I have no need for them to be anything more than what they are. And I don't want them to be psychological, I don't want a sound to pretend that it's a bucket, or that it's president, or that it's in love with another sound... I just want it to be a sound." —John Cage  
+
