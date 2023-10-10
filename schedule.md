@@ -84,7 +84,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Lab 1 / Part 1: Commands + Navigation](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part1.commands.navigation.txt){:target="_blank"}  
 * [Lab 1 / Part 2: Download + (Un)Compress](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part2.download.compress.txt){:target="_blank"}   -->
 
-* * *
+* * *  
 
 <!-- <a id="w2"></a> -->
 <!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
@@ -92,13 +92,12 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### Introduction to Reaper: Basic Soundfile Treatments   
 
 #### Tutorials  
-* [What Are Treatments?](/MHL-studio-methods/what-are-treatments/){:target="_blank"}  
+* [What Are Treatments?](/MHL-studio-methods/treatments/){:target="_blank"}  
 * [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: What is MIDI? (Slides 1-24)](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 #### Assignments  
 * Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
-
 
 <!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files  
 
@@ -117,7 +116,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Lab 2 / Part 2: Working with Files](/Goldford-MTEC1003/labs/02/lab.02.part2.working.with.files.txt){:target="_blank"}  
 * [Lab 2 / Part 3: Shell Scripting, Permissions, Editing Text, Date + Time](/Goldford-MTEC1003/labs/02/lab.02.part3.shell.scripting.txt){:target="_blank"}   -->
 
-* * *
+* * *  
 
 ## Week 3: {{ site.week-03 }}  
 ### Reaper: Plugins and Automation     

@@ -20,13 +20,13 @@ last_modified_at: 2023-08-28
 
 ## Basis in Engineering       
 
-Historically, the term **“treatment”** was used within electrical engineering to mean **a modification imposed on an analog signal** — a continuous, electrical circuit whose current or charge we can modulate with inventive engineering. 
+Historically, the term **“treatment”** was used within electrical engineering to mean **a modification imposed on an analogue signal** — a continuous, electrical circuit whose current or charge we can modulate with inventive engineering. 
 
-Amplification and filtering are among these “basic operations.”  
+**Amplification** and **filtering** are these “basic operations” performed on an analogueue signal.    
 
-Until digital computers, such _analog “treatments” were the only way to manipulate a signal._   
+Until digital computers, such _analogue “treatments” were the only way to manipulate a signal._   
 
-### Analog Signal Processing  
+### Analogue Signal Processing  
 
 This **mechanical treatment of sound** was made possible through classic **radio-telecommunications signal processing**:   
 
@@ -45,7 +45,7 @@ Think about this: with tape, you not only can store an electro-magnetic signal b
 
 ### Digital Treatments Today   
 
-Today we continue to use **digital emulation of these classic analog techniques** as basic and “pure” sonic treatments. We tend to create interest and variety by personalizing each method of manipulation, or by combining them, one after another, into a **signal chain**.   
+Today we continue to use **digital emulation of these classic analogue techniques** as basic and “pure” sonic treatments. We tend to create interest and variety by personalizing each method of manipulation, or by combining them, one after another, into a **signal chain**.   
 
 ### Not Sound FX  
 
