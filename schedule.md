@@ -92,8 +92,9 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### Introduction to Reaper: Basic Soundfile Treatments   
 
 #### Tutorials  
-* [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
-* [Introduction to MIDI: What is MIDI? (Slides 1-24) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+* [What Are Treatments?](/MHL-studio-methods/what-are-treatments/){:target="_blank"}  
+* [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to MIDI: What is MIDI? (Slides 1-24)](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 #### Assignments  
 * Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
