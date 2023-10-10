@@ -22,7 +22,8 @@ last_modified_at: 2023-08-28
 
 ### What To Do   
 
-Write down **2 detailed lists of 50 sounds each** documenting what you hear by following the guidelines below.  
+Write down **a detailed list of 25 sounds each** documenting what you hear by following the guidelines below.  
+
 **Send me an email** with your lists by the deadline.     
 
 ### How to Do It     
@@ -45,7 +46,7 @@ Try as best as you can to **identify each sound** and **identify its â€œsourceâ€
 
 Feel free to make notes on any observations that answer these questions or others that interest you, but don't feel obligated to write too much!  
 
-Identifying the first 25 sounds will be easy. After that, the next 15 will get progressively more difficult, and the last 10 will be almost impossible. Push yourself... For example, if you hear 2 cars go by, what makes each of them sound different? If it's the sound of people talking, ignore the words and describe the sound of their voices.  
+Identifying the first 10 sounds will be easy. After that, the next 10 will get progressively more difficult, and the last 5 will be almost impossible. Push yourself... For example, if you hear 2 cars go by, what makes each of them sound different? If it's the sound of people talking, ignore the words and describe the sound of their voices.  
 
 ### Why Do This??  
 
