@@ -22,9 +22,9 @@ last_modified_at: 2023-08-28
 
 ### What To Do   
 
-Write down **a detailed list of 25 sounds each** documenting what you hear by following the guidelines below.  
+Write down **a detailed list of 25 sounds** documenting what you hear by following the guidelines below.  
 
-**Send me an email** with your lists by the deadline.     
+**Send me an email** with your list by the deadline.     
 
 ### How to Do It     
 
@@ -36,13 +36,13 @@ Try as best as you can to **identify each sound** and **identify its â€œsourceâ€
 
 #### Consider the following...     
 
-* Which sounds seem to change over time?
-* Which sounds are unchanging?   
-* Which sounds have their own internal movement?   
-* Do any of your sounds mimic musical elements? Chords, arpeggios, melodies, rhythms, instruments, white noise?   
-* Do any of your sounds seem to be working together?   
-* Can you hear distant locations?  
-* Are any of the sounds from very large sources? Very small?    
+* Which sounds seem to _change over time?_  
+* Which sounds are _unchanging?_     
+* Which sounds have their own _internal movement?_     
+* Do any of your sounds _mimic musical elements?_ Chords, arpeggios, melodies, rhythms, instruments, white noise?   
+* Do any of your sounds seem to be _working together?_     
+* Can you hear _distant locations?_    
+* Are any of the sounds from very _large sources? Very small?_      
 
 Feel free to make notes on any observations that answer these questions or others that interest you, but don't feel obligated to write too much!  
 
@@ -50,11 +50,11 @@ Identifying the first 10 sounds will be easy. After that, the next 10 will get p
 
 ### Why Do This??  
 
-The human brain ignores more than 80% of the sounds around us.  
+**The human brain ignores more than 80% of the sounds around us.**  
 
 It does this in order to focus on a single task at hand.  
 
-That means becoming an expert listener is all about learning to actively turn on + off this selective perception.  
+That means **becoming an expert listener** is all about learning to actively turn on + off this **selective perception**.  
 
 * * *   
 
