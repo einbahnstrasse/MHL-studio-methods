@@ -39,12 +39,13 @@ _For an overview of grading policies for this course, see [XI. General Grading R
 <p markdown="span"><em><b>Reminder:</b> {{ site.weekly-deadline-statement }}</em></p></div> -->
 <!-- _**Reminder:** Deadlines are always on the Saturday night at 11:59 PM following the assignment date listed below._   -->
 
-### I. Weekly Lab Assignments
+<!-- ### I. Weekly Lab Assignments -->
 
-_Our schedule follows the [Current MHL Academic Calendar]({{ site.MHL-calendar }}){:target="_blank"}._   
-_The following topics and their precise order may change. Check our Schedule page for updates!_  
+_Coming Soon!_  
 
-<div class="schedulingtable">
+
+
+<!-- <div class="schedulingtable">
 <table>
 <colgroup>
 <col width="5%" />
@@ -249,7 +250,7 @@ _The following topics and their precise order may change. Check our Schedule pag
 </tr>
 </tbody>
 </table>
-</div>
+</div> -->
 
 * * *
 
