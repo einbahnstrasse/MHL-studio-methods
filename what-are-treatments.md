@@ -22,7 +22,7 @@ last_modified_at: 2023-08-28
 
 Historically, the term **“treatment”** was used within electrical engineering to mean **a modification imposed on an analogue signal** — a continuous, electrical circuit whose current or charge we can modulate with inventive engineering. 
 
-**Amplification** and **filtering** are these “basic operations” performed on an analogueue signal.    
+**Amplification** and **filtering** are these “basic operations” performed on an analogue signal.    
 
 Until digital computers, such _analogue “treatments” were the only way to manipulate a signal._   
 
