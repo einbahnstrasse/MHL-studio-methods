@@ -91,10 +91,19 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ## Week 2: {{ site.week-02 }}  
 ### Introduction to Reaper: Basic Soundfile Treatments   
 
-#### Tutorials  
+#### Tutorials and Slides  
 * [What Are Treatments?](/MHL-studio-methods/treatments/){:target="_blank"}  
 * [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: What is MIDI? (Slides 1-24)](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
+
+##### Reaper Tutorial Videos  
+* [Fades and Crossfades in Reaper](https://youtu.be/IEXu39uqsFs?si=KLmIuFQ8PBiGqHWn){:target="_blank"}  
+
+{% include video id="IEXu39uqsFs" provider="youtube" %}  
+
+* [Split and Glue Audio Clips in Reaper](https://youtu.be/3u470I76KJo?si=gRgcN6XOP0z5rlX9){:target="_blank"}  
+
+{% include video id="3u470I76KJo" provider="youtube" %}  
 
 #### Assignments  
 * Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
