@@ -65,7 +65,7 @@ _**Students are required to pass Electronic Studio Methods and Composition in or
 
 ### 2.1 Course Goals      
 
-Students will equip students with the basic protocols of working in a studio enviornment, acquainting them with the fundamnetals of acoustics and sound, digital audio, an overview of the history of techniques for analog and digital audio production and synthesis, and will provide direct, hands-on experience creating multichannel electronic music in a Digital Audio Workstation (DAW), as well as an inroduction to the MaxMSP real-time audio and synthesis environment. 
+This course will equip students with the basic protocols of working in a studio enviornment, acquainting them with the fundamnetals of acoustics and sound, digital audio, an overview of the history of techniques for analog and digital audio production and synthesis, and will provide direct, hands-on experience creating multichannel electronic music in a Digital Audio Workstation (DAW), as well as an inroduction to the MaxMSP real-time audio and synthesis environment. 
 
 <!-- Students will learn to **integrate** basic formal methods of musical generation into their already established personal and foundational MaxMSP workflow by **building control structures** such as loops, functions, and conditionals. Various data clases, as well as historic approaches to CAO methods by twentieth and twenty-first century composers, will be **observed** and **understood**. A final step in this process is the **creation of a concert work** or a _work-in-progress_ to be presented near the end of the semester during a class concert.   -->
 
