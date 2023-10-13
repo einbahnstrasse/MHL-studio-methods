@@ -254,7 +254,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">Mixing Part I</a></td>
+<td markdown="span"><a href="schedule/#w5" target="_blank">Mixing</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
@@ -264,12 +264,12 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">Mixing Part II</a></td>
+<td markdown="span"><a href="schedule/#w7" target="_blank">Multichannel Spatial Audio</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">{{ site.week-08 }}</td>
-<td markdown="span"><a href="schedule/#w8" target="_blank">Multichannel Spatial Audio</a>
+<td markdown="span"><a href="schedule/#w8" target="_blank"><em>No class!</em></a>
 </td>
 </tr>
 <tr>

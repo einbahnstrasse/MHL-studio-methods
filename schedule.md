@@ -156,7 +156,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 5: {{ site.week-05 }}  
-### Mixing Part I       
+### Mixing       
 
 #### Tutorials  
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-?) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
@@ -179,7 +179,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 7: {{ site.week-07 }}  
-### Mixing Part II       
+### Multichannel Spatial Audio   
 
 <!-- ### Javascript + Python: Conditionals -->
 <!-- <p class="redish"><i>Spring Recess 3/27-4/4. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2021.pdf" target="_blank">CityTech Spring 2021 Schedule.</a></i></p> -->  
@@ -192,7 +192,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 8: {{ site.week-08 }}  
-### Multichannel Spatial Audio   
+### _No Class!_   
 <!-- ### JavaScript + Python: For Loops   -->
 
 #### Tutorials  
@@ -288,7 +288,7 @@ _Coming Soon!_
 * * *
 
 ## Week 17: {{ site.week-17 }}  
-_No class!_   
+### _No Class!_   
 
 ### Tutorials  
 
