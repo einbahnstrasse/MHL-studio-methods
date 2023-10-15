@@ -172,6 +172,12 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 ### _No Class!_   
 
 #### Tutorials  
+* Sampling Theorem and the Nyquist Frequency   
+{% include video id="vrXGaFV1AmE" provider="youtube" %}  
+
+_Choose auto-generated German translations of subtitles if it would help:_  
+![auto-generated subtitles](assets/images/auto-generated-subtitles.png)   
+
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
@@ -185,6 +191,10 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 <!-- <p class="redish"><i>Spring Recess 3/27-4/4. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2021.pdf" target="_blank">CityTech Spring 2021 Schedule.</a></i></p> -->  
 
 #### Tutorials  
+* Aliasing     
+{% include video id="91PKZllbgds" provider="youtube" %}  
+
+_Choose auto-generated German translations of subtitles if it would help. (See example image above in Week 6.)_  
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
