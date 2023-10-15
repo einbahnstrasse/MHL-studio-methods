@@ -176,7 +176,9 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
 
 _Choose auto-generated German translations of subtitles if it would help:_  
-![auto-generated subtitles](assets/images/auto-generated-subtitles.png)   
+
+<img src="assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
+<!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 
 #### Assignments  
