@@ -222,6 +222,8 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 #### Tutorials  
 
 #### Assignments  
+* <span style="color: red;">Install SPEAR before Week 10 <em>(See Resources page for instructions).</em></span>  
+
 
 
 * * *
