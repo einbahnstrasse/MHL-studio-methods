@@ -177,7 +177,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 _Choose auto-generated German translations of subtitles if it would help:_  
 
-<img src="/MHL-Advanced-CAO/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
+<img src="/MHL-studio-methods/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 
