@@ -210,7 +210,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 #### Tutorials  
 
 #### Assignments  
-* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/midterm/final-multichannel-fixed-piece/){:target="_blank"}.  
+* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
 * <span style="color: red;">Install MaxMSP before Week 9 <em>(See Resources page for instructions).</em></span>  
 
 
@@ -267,7 +267,7 @@ _No class! Setup and tear-down for concerts all week._
 #### Tutorials  
 
 #### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>   
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>   
 
 * * *
 
