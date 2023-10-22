@@ -134,6 +134,11 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: Software + Hardware (Slides 25-32) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
+##### Reaper Tutorial Videos  
+* [Read vs. Trim/Read Automation Modes](https://youtu.be/fC5xlDrjTIA?si=T6-wtu8yBAbETw3z){:target="_blank"}  
+
+{% include video id="fC5xlDrjTIA" provider="youtube" %}  
+
 #### Assignments  
 * <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
 
