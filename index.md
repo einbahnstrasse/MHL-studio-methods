@@ -97,7 +97,7 @@ _See the [RESOURCES TAB](/resources){:target="_blank"} for download and document
 
 1. **Arrive on time** to all course sessions.  
 2. Spend **1-2 additional hours a week** _(outside of class)_ on the timely completion of our lab assignments and projects.  
-3. Submit assignments by the given deadlines: {{ site.weekly-deadline-statement }}  
+3. Submit assignments by the given deadlines.   
 4. **Back up and organize your work REGULARLY.** _Catastrophic loss of materials is not an excuse for missed deadlines!_  
 
 ### 3.2 Weekly Preparation      
