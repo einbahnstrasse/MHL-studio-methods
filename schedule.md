@@ -145,7 +145,7 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * * *
 
 ## Week 4: {{ site.week-04 }}  
-_No class!_   
+### _No class!_   
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  

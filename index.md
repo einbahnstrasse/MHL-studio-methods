@@ -300,7 +300,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank"><em>Max: Time Domain Treatments</em></a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank">Max: Time Domain Treatments</a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
