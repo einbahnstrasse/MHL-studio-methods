@@ -249,12 +249,12 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">{{ site.week-04 }}</td>
-<td markdown="span"><a href="schedule/#w4" target="_blank">Reaper: Sampling and MIDI controllers</a></td>
+<td markdown="span"><a href="schedule/#w4" target="_blank"><em>No class!</em></a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">Mixing</a></td>
+<td markdown="span"><a href="schedule/#w5" target="_blank">Reaper: Sampling and MIDI controllers</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
@@ -264,7 +264,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">Multichannel Spatial Audio</a></td>
+<td markdown="span"><a href="schedule/#w7" target="_blank">Mixing</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
@@ -275,22 +275,22 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Introduction to MaxMSP</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">Multichannel Spatial Audio</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">Frequency Domain Editing with SPEAR</a></td>
+<td markdown="span"><a href="schedule/#w10" target="_blank">Introduction to MaxMSP</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">{{ site.week-11 }}</td>
-<td markdown="span"><a href="schedule/#w11" target="_blank">Max: Filtering</a></td>
+<td markdown="span"><a href="schedule/#w11" target="_blank">Frequency Domain Editing with SPEAR</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">{{ site.week-12 }}</td>
-<td markdown="span"><a href="schedule/#w12" target="_blank">Max: Time Domain Treatments</a></td>
+<td markdown="span"><a href="schedule/#w12" target="_blank">Max: Filtering</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
@@ -300,7 +300,7 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank"><em>Coming Soon!</em></a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank"><em>Max: Time Domain Treatments</em></a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>

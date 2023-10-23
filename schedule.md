@@ -142,25 +142,28 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 #### Assignments  
 * <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
 
-
 * * *
 
 ## Week 4: {{ site.week-04 }}  
+_No class!_   
+
+#### Assignments  
+* <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  
+* Assign + discuss the [Microphone Cable Coiling](/MHL-studio-methods/XLR-cable-coiling/){:target="_blank"} Assignment.  
+
+* * *
+
+## Week 5: {{ site.week-05 }}  
 ### Reaper: Sampling and MIDI controllers    
 
 #### Tutorials  
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
-#### Assignments  
-* <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  
-* Assign + discuss the [Microphone Cable Coiling](/MHL-studio-methods/XLR-cable-coiling/){:target="_blank"} Assignment.  
-
-
 
 * * *
 
-## Week 5: {{ site.week-05 }}  
+## Week 6: {{ site.week-06 }}  
 ### Mixing       
 
 #### Tutorials  
@@ -169,11 +172,12 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Microphone, Speaker, and Cable Types](#){:target="_blank"}  
 
 #### Assignments  
-
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
+* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
 
 * * *
 
-## Week 6: {{ site.week-06 }}  
+## Week 7: {{ site.week-07 }}  
 ### _No Class!_   
 
 #### Tutorials  
@@ -185,13 +189,22 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <img src="/MHL-studio-methods/assets/images/auto-generated-subtitles.png" alt="auto-generated subtitles" width="200">
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
-
 #### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 
 * * *
 
-## Week 7: {{ site.week-07 }}  
+## Week 8: {{ site.week-08 }}  
+### _No Class!_   
+<!-- ### JavaScript + Python: For Loops   -->
+
+#### Tutorials  
+
+#### Assignments  
+
+
+* * *
+
+## Week 9: {{ site.week-09 }}  
 ### Multichannel Spatial Audio   
 
 <!-- ### Javascript + Python: Conditionals -->
@@ -205,46 +218,22 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
+* <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>  
 
 * * *
 
-## Week 8: {{ site.week-08 }}  
-### _No Class!_   
-<!-- ### JavaScript + Python: For Loops   -->
-
-#### Tutorials  
-
-#### Assignments  
-* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
-* <span style="color: red;">Install MaxMSP before Week 9 <em>(See Resources page for instructions).</em></span>  
-
-
-* * *
-
-## Week 9: {{ site.week-09 }}  
+## Week 10: {{ site.week-10 }}  
 ### Introduction to MaxMSP   
 
 #### Tutorials  
 
 #### Assignments  
-* <span style="color: red;">Install SPEAR before Week 10 <em>(See Resources page for instructions).</em></span>  
-
-
-
-* * *
-
-## Week 10: {{ site.week-10 }}  
-### Frequency Domain Editing with SPEAR   
-
-#### Tutorials  
-
-#### Assignments  
-
+* <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span> 
 
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-### Max: Filtering
+### Frequency Domain Editing with SPEAR   
 
 #### Tutorials  
 
@@ -255,11 +244,12 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * * *
 
 ## Week 12: {{ site.week-12 }}  
-### Max: Time Domain Treatments   
+### Max: Filtering
 
 #### Tutorials  
 
 #### Assignments  
+* _Finish your Final 8-Channel piece!_   
 
 
 * * *
@@ -277,11 +267,11 @@ _No class! Setup and tear-down for concerts all week._
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-_Coming Soon!_   
+### Max: Time Domain Treatments   
 
-### Tutorials  
+#### Tutorials  
 
-### Assignments  
+#### Assignments  
 
 
 * * *
