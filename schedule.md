@@ -143,6 +143,12 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 
 {% include video id="fC5xlDrjTIA" provider="youtube" %}  
 
+_This is a 20-minute video (above) and is only offered "for reference." You don't have to watch the whole thing, but check this out for useful plugins that you might want to explore in your piece!_   
+
+* [10 Of The BEST Free Plugins You Should Know for Sound Design 🎧](https://youtu.be/i9nqxqkk_tc?si=LULthBuyMJrToVg1){:target="_blank"}  
+
+{% include video id="i9nqxqkk_tc" provider="youtube" %}  
+
 ##### Download + Install        
 * [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
 
