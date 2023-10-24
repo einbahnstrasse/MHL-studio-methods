@@ -155,6 +155,7 @@ _This is a 20-minute video (above) and is only offered "for reference." You don'
 #### Assignments  
 * <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  
 * <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
+* Assign + discuss the [Microphone Cable Coiling](/MHL-studio-methods/xlr-cable-coiling/){:target="_blank"} Assignment.  
 
 * * *
 
@@ -162,7 +163,6 @@ _This is a 20-minute video (above) and is only offered "for reference." You don'
 ### _No class!_   
 
 #### Assignments  
-* Assign + discuss the [Microphone Cable Coiling](/MHL-studio-methods/XLR-cable-coiling/){:target="_blank"} Assignment.  
 
 * * *
 
