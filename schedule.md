@@ -203,6 +203,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 #### Assignments  
+* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
 
 * * *
 
@@ -230,7 +231,6 @@ _Choose auto-generated German translations of subtitles if it would help:_
 _Choose auto-generated German translations of subtitles if it would help. (See example image above in Week 6.)_  
 
 #### Assignments  
-* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
 * <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>  
 
 * * *
