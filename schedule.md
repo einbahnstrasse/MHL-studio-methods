@@ -173,10 +173,15 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: The MIDI Technical Standard (Slides 33-48) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
-
 * * *
 
 ## Week 6: {{ site.week-06 }}  
+### _No Class!_   
+
+* * *
+
+## Week 7: {{ site.week-07 }}  
+
 ### Mixing       
 
 #### Tutorials  
@@ -187,11 +192,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 #### Assignments  
 * <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 * Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
-
-* * *
-
-## Week 7: {{ site.week-07 }}  
-### _No Class!_   
 
 #### Tutorials  
 * Sampling Theorem and the Nyquist Frequency   
