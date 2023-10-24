@@ -135,9 +135,16 @@ _Normally we won't record our classes but sometimes we may in order to clarify c
 * [Introduction to MIDI: Software + Hardware (Slides 25-32) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 
 ##### Reaper Tutorial Videos  
+* [Create Automation Envelopes](https://youtu.be/VNWfCbmhGU4?si=SATu3kkzxV1dj7x9){:target="_blank"}  
+
+{% include video id="dyOdT7oax08" provider="youtube" %}  
+
 * [Read vs. Trim/Read Automation Modes](https://youtu.be/fC5xlDrjTIA?si=T6-wtu8yBAbETw3z){:target="_blank"}  
 
 {% include video id="fC5xlDrjTIA" provider="youtube" %}  
+
+##### Download + Install        
+* [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline to email proposed planned absences for the semester to the instructor.</em></span>  
