@@ -189,10 +189,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 * [Microphone, Speaker, and Cable Types](#){:target="_blank"}  
 
-#### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
-* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
-
 #### Tutorials  
 * Sampling Theorem and the Nyquist Frequency   
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
@@ -203,7 +199,10 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 #### Assignments  
-* <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span>  
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
+* * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
+* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
+
 
 * * *
 
