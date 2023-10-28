@@ -188,6 +188,10 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ## Week 6: {{ site.week-06 }}  
 ### _No Class!_   
 
+#### Tutorials  
+
+* [12+ Different Types of Microphones](https://decibelpeak.com/types-of-microphones/#summary-12-different-types-of-microphones){:target="_blank"}  
+
 #### Video Tutorials  
 * [A Quick Guide to Microphones](https://youtu.be/PE6Qn4ZiEyo?si=r3j0GYwarIWruiht){:target="_blank"}  
 {% include video id="PE6Qn4ZiEyo" provider="youtube" %}  
