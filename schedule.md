@@ -164,6 +164,16 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 #### Assignments  
 
+#### Video Tutorials  
+* [Common types of audio cables and their uses](https://youtu.be/617z88J8060?si=LMRDTIkWgeWa6Z3o){:target="_blank"}  
+{% include video id="617z88J8060" provider="youtube" %}  
+
+* [Balanced vs unbalanced audio cables](https://youtu.be/UQPJYWA5Y-o?si=5snyg7mI2trGJqWf){:target="_blank"}  
+{% include video id="UQPJYWA5Y-o" provider="youtube" %}  
+
+* [What Does a Comb Filter Sound Like?](https://youtu.be/osig1c4QcmI?si=dKy_F78qp0uB08XD){:target="_blank"}  
+{% include video id="osig1c4QcmI" provider="youtube" %}  
+
 * * *
 
 ## Week 5: {{ site.week-05 }}  
@@ -177,6 +187,13 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ## Week 6: {{ site.week-06 }}  
 ### _No Class!_   
+
+#### Video Tutorials  
+* [A Quick Guide to Microphones](https://youtu.be/PE6Qn4ZiEyo?si=r3j0GYwarIWruiht){:target="_blank"}  
+{% include video id="PE6Qn4ZiEyo" provider="youtube" %}  
+
+* [What is a microphone polar pattern?](https://youtu.be/dOr9uQifsO4?si=XDG6-qGe51yMgVdU){:target="_blank"}  
+{% include video id="dOr9uQifsO4" provider="youtube" %}  
 
 * * *
 
