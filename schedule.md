@@ -208,7 +208,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 #### Tutorials  
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-91) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
-* [Microphone, Speaker, and Cable Types](#){:target="_blank"}  
+<!-- * [Microphone, Speaker, and Cable Types](#){:target="_blank"}   -->
 
 #### Tutorials  
 * Sampling Theorem and the Nyquist Frequency   
