@@ -214,7 +214,7 @@ _Check your operating system for compatibility and install one of these:_
 
 ## Additional + Optional Resources   
 
-#### Audio Analysis Tools   
+### Audio Analysis Tools   
 
 <a href="https://logiciels.pierrecouprie.fr/" target="_blank" class="btn btn--primary">iAnalyse</a>  
 
@@ -225,6 +225,26 @@ _Check your operating system for compatibility and install one of these:_
 <span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
 	<a href="https://freesound.org/" target="_blank" class="btn btn--primary">FreeSound.org</a> <a href="https://archive.org/details/nasaaudiocollection" target="_blank" class="btn btn--primary">NASA Audio Collection</a> <a href="https://www.nps.gov/subjects/sound/gallery.htm" target="_blank" class="btn btn--primary">Natural Sounds Gallery</a> <a href="https://theremin.music.uiowa.edu/MIS.html" target="_blank" class="btn btn--primary">Instrumental Samples</a>
 </span>
+
+### Field Recording On Your Phone   
+
+_You can request a Zoom device or field recorder from the studio, but it is sometimes even more convenient to record high-quality audio on your phone using a free app! 2 apps are listed below._    
+
+_The challenge with mobile recording apps that don't require a microphone is this: they use your phone's built-in microphone, which is usually a very ambient **omni-directional microphone**. It is therefore crucial that you **carefully point your phone towards the sound source you want to record** in order to minimize indirect and ambient sound when field recording._    
+
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
+	<a href="https://apps.apple.com/us/app/apogee-metarecorder/id965930387" target="_blank" class="btn btn--primary">Apogee MetaRecorder (iPhone app)</a> <a href="https://play.google.com/store/apps/details?id=com.dolby.dolby234&hl=en&gl=US" target="_blank" class="btn btn--primary">Dolby On (Android app)</a>
+</span>
+
+_Other phone apps are also available. Whichever app you choose, be sure to set the app's preferences to record at our studio's standard **sampling rate (48kHz) and bit rate (24 bit)**. Unfortunately, Dolby On may only allow you to record in 16-bit, but you might find another app that can do better. Dolby On also has a lots of great audio editing features._  
+
+#### Apogee MetaRecorder Quickstart Video Guide   
+
+{% include video id="QoD4OQey4m4" provider="youtube" %}  
+
+#### Dolby On – Full Walkthrough Tutorial   
+
+{% include video id="n6UVVpXc8Og" provider="youtube" %}  
 
 ### Tutorials   
 
