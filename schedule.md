@@ -237,7 +237,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 #### Tutorials  
 
 #### Assignments  
-
+* <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
 
 * * *
 
