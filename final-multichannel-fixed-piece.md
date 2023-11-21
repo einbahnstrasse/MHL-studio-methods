@@ -14,13 +14,13 @@ toc_icon: "graduation-cap"  # corr esponding Font Awesome icon name without the 
 # toc_sticky: true   # enables sticky toc  
 read_time: true  
 date: 2023-08-01  
-last_modified_at: 2023-08-28  
+last_modified_at: 2023-11-21    
 
 ---
 
 ## Deadline: Week 13: {{ site.week-13 }}  
 
-The final is a complete piece (_recommended: 8-12 minutes in duration_) for fixed media, in 8-channel surround sound. 
+The final is a complete piece (_recommended: 8-12 minutes in duration_) for fixed media, in <strike>8-channel</strike> 4-channel surround sound. 
 
 This piece will be featured during the _**Werkstatt für Aktuelle Musik**_ (January 17-20, 2024).  
 
@@ -43,7 +43,8 @@ The final exam piece should address similar criteria from the midterm exam, and 
 * Your Reaper project should include a sequence that **utilizes multiple tracks** (recommended: 8).  
 * Your Reaper tracks should include **automation**.  
 * Make extensive use of SpatGRIS: add ControlGRIS to your tracks and add automation to in order to move your sounds around the space.  
-* The 8-channel space is conceived of as a **ring of 8**, meaning 8 equidistantly-spaced speakers surrounding the audience.  
+* <strike>The 8-channel space is conceived of as a **ring of 8**, meaning 8 equidistantly-spaced speakers surrounding the audience.</strike>   
+* _Due to new restrictions on our final concert, we will make 4-channel pieces instead of 8-channel pieces:_ The 4-channel space is conceived of as a **square**, meaning 4 speakers surrounding the audience in 4 corners of the room.   
 * These tracks may include any number of **plugin** devices.  
 * If you use plugins, include a **list** of them: _Your mix must be transferrable and able to play on another computer._  
 * Strive for **tonal balance in your mix**. For example, use **EQ** and **compression** to improve the interaction between the sounds in your tracks, with special attention to how the sounds change when you apply multichannel spatial movement.   
