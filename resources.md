@@ -214,6 +214,10 @@ _Check your operating system for compatibility and install one of these:_
 
 ## Additional + Optional Resources   
 
+### YouTube: Electroacoustic + Acousmatic Music   
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dGmT6dvsMcJbrF1u&amp;list=PLJiSOq8uc1_-jrDCDCAqAhAECYbwWrqr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ### Audio Analysis Tools   
 
 <a href="https://logiciels.pierrecouprie.fr/" target="_blank" class="btn btn--primary">iAnalyse</a>  
