@@ -36,7 +36,7 @@ By the deadline, send me a Reaper project folder (by email, WeTransfer.com, or a
 
 The final exam piece should address similar criteria from the midterm exam, and additionally:   
 
-* Ideally, your sketch is around **8-12 minutes in duration**, but of course, this **may vary** depending on your material and your compositional approach and the timing needs of the final concert. It can be a longer excerpt, but not much shorter.  
+* Your piece should be approximately **8-12 minutes in duration**, but of course, this **may vary** depending on your material and your compositional approach and the timing needs of the final concert. It can be a longer excerpt, but not much shorter.  
 * Prepare your sketch **in a Reaper session**. Any sound files you use should also be contained inside your Reaper project folder.  
 * Sketches should be your own, original work, focusing on your manipulation of the source sounds that interest you.  
 * Include **at least 2 source sound files** and/or synthesis clips.  
