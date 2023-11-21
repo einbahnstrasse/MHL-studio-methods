@@ -4,7 +4,7 @@
 
 # layout: archive   
 layout: single   
-title: Grading   
+title: Final Multichannel Fixed Piece     
 lang: en   
 ref: grade  
 permalink: /final-multichannel-fixed-piece/   
