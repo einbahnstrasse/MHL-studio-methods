@@ -18,7 +18,7 @@ last_modified_at: 2023-08-28
 
 ---
 
-## Deadline: Week 6: {{ site.week-06 }}  
+## Deadline: Week 7: {{ site.week-07 }}  
 
 The midterm is a “sketch” for a fixed-media piece, which you can treat as a “preview” of your final piece as you are developing your ideas.  
 
