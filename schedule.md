@@ -285,7 +285,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 #### Tutorials  
 
 #### Assignments  
-* _Finish your Final 8-Channel piece!_   
+* _Finish your Final 4-Channel piece!_   
 
 
 * * *
@@ -298,7 +298,7 @@ _No class! Setup and tear-down for concerts all week._
 #### Tutorials  
 
 #### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>   
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/final-multichannel-fixed-piece/">Final Exam: 4-Channel Fixed Media Piece</a></em></span>   
 
 * * *
 
