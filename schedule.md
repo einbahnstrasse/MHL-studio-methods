@@ -224,7 +224,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 #### Assignments  
 * <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
-* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
+* Assign + discuss the [Final Exam: 4-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
 
 
 * * *
