@@ -210,6 +210,13 @@ _Check your operating system for compatibility and install one of these:_
 	<a href="https://www.reaper.fm/download.php/" target="_blank" class="btn btn--primary">Reaper</a> <a href="https://www.ableton.com/en/trial/" target="_blank" class="btn btn--primary">Ableton Live</a>
 </span> -->
 
+## VCV Rack      
+
+_for virtual modular synthesis_  
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;"><a href="https://vcvrack.com/Rack#get" target="_blank" class="btn btn--primary">VCV Rack</a></span>  
+
+<img src="/MHL-studio-methods/assets/images/VCVrack.png" alt="VCVrack.png">
+
 * * *   
 
 ## Additional + Optional Resources   

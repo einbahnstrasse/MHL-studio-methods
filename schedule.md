@@ -308,12 +308,12 @@ _No class! Setup and tear-down for concerts all week._
 #### Tutorials  
 
 #### Assignments  
-
+* <span style="color: red;"><em>Install VCV Rack before Week 15! (See Software + Resource page.)</em></span>  
 
 * * *
 
 ## Week 15: {{ site.week-15 }}  
-_Coming Soon!_   
+### Modular Synthesis with VCV Rack      
 
 ### Tutorials  
 
