@@ -313,7 +313,7 @@ _No class! Setup and tear-down for concerts all week._
 * * *
 
 ## Week 15: {{ site.week-15 }}  
-### Modular Synthesis with VCV Rack      
+### Modular Synthesis (Part 1) with VCV Rack      
 
 ### Tutorials  
 
@@ -323,7 +323,7 @@ _No class! Setup and tear-down for concerts all week._
 * * *
 
 ## Week 16: {{ site.week-16 }}  
-_Coming Soon!_   
+### Modular Synthesis (Part 2) with VCV Rack      
 
 ### Tutorials  
 
