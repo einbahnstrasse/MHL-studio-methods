@@ -238,6 +238,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 
 #### Assignments  
 * <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
+<span style="color: red;"><em>Install SpatGRIS before Week 9! (See Software + Resource page.)</em></span>  
 
 * * *
 
