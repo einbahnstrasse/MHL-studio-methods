@@ -235,6 +235,9 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <!-- ### JavaScript + Python: For Loops   -->
 
 #### Tutorials  
+* Fundamentals of musique concrete   
+_A review of the essential Reaper techniques we learned earlier this semester._   
+{% include video id="snQl-HyeeHc" provider="youtube" %}  
 
 #### Assignments  
 * <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
@@ -275,10 +278,10 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### Frequency Domain Editing with SPEAR   
 
 #### Tutorials  
+* Introduction to SPEAR   
+{% include video id="123cSokYIDo" provider="youtube" %}  
 
 #### Assignments  
-
-
 
 * * *
 
