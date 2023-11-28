@@ -299,7 +299,20 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ## Week 13: {{ site.week-13 }}  
 ### Werkstatt für Aktuelle Musik (January 17-20, 2024)   
 
-_No class! Setup and tear-down for concerts all week._   
+_Change in plan: We WILL have class this week on Tuesday. Our performance is now scheduled for Thursday (see info below). We might have a need to setup and tear-down for concerts all week, but in genearal, we will have little or no setup requirements for performance on Thursday._   
+
+#### Performance: 18 January (Tuesday) at 18:30     
+
+<span style="color: red;"><em>You must present your work and attend this concert below in order to receive a passing grade in our class:</em></span>   
+
+##### WAM! LISTENING SESSION   
+18 DO
+18.30 Uhr / MHL / Elektronisches Studio (Raum 2.43)
+Elektroakustische Kompositionen und interaktive Systeme mit Studierenden der MHL. 
+
+_There is limited seating for attendance. Please invite your friends to attend and please encourage them to register for a seat below:_   
+
+Begrenzte Besuchsanzahl, Anmeldung unter anmeldung@mh-luebeck.de.
 
 #### Tutorials  
 
