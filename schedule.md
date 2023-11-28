@@ -310,7 +310,7 @@ _Change in plan: We WILL have class this week on Tuesday. Our performance is now
 18.30 Uhr / MHL / Elektronisches Studio (Raum 2.43)    
 Elektroakustische Kompositionen und interaktive Systeme mit Studierenden der MHL.    
 
-_There is limited seating for attendance. Please invite your friends to attend and please encourage them to register for a seat below:_   
+_There is limited seating for attendance. Please invite your friends and encourage them to register for a seat below:_   
 
 Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de">anmeldung@mh-luebeck.de</a>.   
 
