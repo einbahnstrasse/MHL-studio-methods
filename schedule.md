@@ -299,7 +299,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ## Week 13: {{ site.week-13 }}  
 ### Werkstatt für Aktuelle Musik (January 17-20, 2024)   
 
-_Change in plan: We WILL have class this week on Tuesday. Our performance is now scheduled for Thursday (see info below). We might have a need to setup and tear-down for concerts all week, but in genearal, we will have little or no setup requirements for performance on Thursday._   
+_Change in plan: We WILL have class this week on Tuesday. Our performance is now scheduled for Thursday (see info below). We might have a need to setup and tear-down for concerts all week, but in general, we will have little or no setup requirements for performance on Thursday._   
 
 #### Performance: 18 January (Tuesday) at 18:30     
 
