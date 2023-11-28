@@ -312,7 +312,7 @@ Elektroakustische Kompositionen und interaktive Systeme mit Studierenden der MHL
 
 _There is limited seating for attendance. Please invite your friends to attend and please encourage them to register for a seat below:_   
 
-Begrenzte Besuchsanzahl, Anmeldung unter anmeldung@mh-luebeck.de.
+Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de">anmeldung@mh-luebeck.de</a>.   
 
 #### Tutorials  
 
