@@ -306,9 +306,9 @@ _Change in plan: We WILL have class this week on Tuesday. Our performance is now
 <span style="color: red;"><em>You must present your work and attend this concert below in order to receive a passing grade in our class:</em></span>   
 
 ##### WAM! LISTENING SESSION   
-18 DO
-18.30 Uhr / MHL / Elektronisches Studio (Raum 2.43)
-Elektroakustische Kompositionen und interaktive Systeme mit Studierenden der MHL. 
+18 DO     
+18.30 Uhr / MHL / Elektronisches Studio (Raum 2.43)    
+Elektroakustische Kompositionen und interaktive Systeme mit Studierenden der MHL.    
 
 _There is limited seating for attendance. Please invite your friends to attend and please encourage them to register for a seat below:_   
 
