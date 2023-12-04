@@ -251,6 +251,9 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 <!-- ### Javascript + Python: Conditionals -->
 <!-- <p class="redish"><i>Spring Recess 3/27-4/4. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2021.pdf" target="_blank">CityTech Spring 2021 Schedule.</a></i></p> -->  
 
+#### Downloads     
+* [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
+
 #### Tutorials  
 * Aliasing     
 {% include video id="91PKZllbgds" provider="youtube" %}  
