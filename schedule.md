@@ -268,9 +268,12 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ## Week 10: {{ site.week-10 }}  
 ### Introduction to MaxMSP   
 
-#### Tutorials  
+#### Tutorials   
 * Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DpKIQzjOh_U?si=jk0aRsoD2WTIqm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Downloads     
+* [Boiler Audio Files for MaxMSP](https://github.com/einbahnstrasse/MHL-SM-sounds-v01){:target="_blank"}    
 
 #### Assignments  
 * <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span> 
