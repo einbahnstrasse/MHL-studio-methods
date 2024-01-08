@@ -307,7 +307,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 _Change in plan: We WILL have class this week on Tuesday. Our performance is now scheduled for Thursday (see info below). We might have a need to setup and tear-down for concerts all week, but in general, we will have little or no setup requirements for performance on Thursday._   
 
-#### Performance: 18 January (Tuesday) at 18:30     
+#### Performance: 18 January (Thursday) at 18:30     
 
 <span style="color: red;"><em>You must present your work and attend this concert below in order to receive a passing grade in our class:</em></span>   
 
