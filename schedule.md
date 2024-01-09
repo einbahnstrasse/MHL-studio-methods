@@ -292,7 +292,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * * *
 
 ## Week 12: {{ site.week-12 }}  
-### Max: Filtering
+### Workshop Session on Pieces   
 
 #### Tutorials  
 
@@ -328,7 +328,7 @@ Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-### Max: Time Domain Treatments   
+### Max: Filters + Time Domain Treatments   
 
 #### Tutorials  
 
