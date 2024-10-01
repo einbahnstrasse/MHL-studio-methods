@@ -130,7 +130,11 @@ _See the [RESOURCES TAB](/resources){:target="_blank"} for download and document
 
 ### 3.5 Attendance + Participation Policy   
 
-_Participation is based on attendance and your engagement in class, and will form a substantial portion of your grade._  
+> _es besteht Anwesenheitspflicht gemäß Prüfungsverfahrensordung._ 
+
+> _Attendance is required in accordance with the examination procedure regulations._  
+
+_Your participation is based on attendance and your engagement in class, and will form a substantial portion of your grade._   
 
 #### 3.5.1 Prompt Arrival   
 
