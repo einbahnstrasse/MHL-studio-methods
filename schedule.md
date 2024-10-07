@@ -41,7 +41,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *   
 
 ## Week 1: {{ site.week-01 }}  
-### <span style="color: #10999e;">{{ site.week-01-topic }}</span>    
+### <span style="color: #fc3a52;">{{ site.week-01-topic }}</span>    
 
 <!-- ### [Week #1 Survey/Quiz — Personal Info, Syllabus Elements](https://forms.gle/HeYNxzVSuG67M3Nb8){:target="_blank"}   -->
 <!-- * _Complete the quizlet above as part of today's participation._   -->
@@ -69,7 +69,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *  
 
 ## Week 2: {{ site.week-02 }}  
-### <span style="color: #10999e;">{{ site.week-02-topic }}</span>    
+### <span style="color: #fc3a52;">{{ site.week-02-topic }}</span>    
 
 #### Tutorials and Slides  
 * [What Are Treatments?](/MHL-studio-methods/treatments/){:target="_blank"}  
@@ -87,28 +87,11 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 #### Assignments  
 * Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
-
-<!-- ### File System: Shell Scripting, Permissions, Date/Time, Editing Files  
-
-### [Week 2 Quizlet](https://forms.gle/vFneHmAUaNeTaHo4A){:target="_blank"}  
-* _Complete the quizlet above as part of today's attendance + participation._  
-
-<h5 style="color:Tomato;"><b>SLIDES</b></h5>  
-* [Review](/Goldford-MTEC1003/labs/03/review.html#1.0){:target="_blank"}  
-* [Working With Files](/Goldford-MTEC1003/labs/03/working-with-files.html){:target="_blank"}  
-* [File Permissions, Editing, Date + Time, Shell Scripting](/Goldford-MTEC1003/labs/03/permissions-editing-date-time.html){:target="_blank"}  
-* [Shell Scripting: Some Odds and Ends](/Goldford-MTEC1003/labs/04/shell-scripting.html#1.0){:target="_blank"}  
-
-<h5 style="color:Tomato;"><b>LAB ASSIGNMENTS</b></h5>
-* [Submitting Week 2 Labs](/Goldford-MTEC1003/labs/02/how.to.submit.2nd.week.labs.html){:target="_blank"}  
-* Lab 2 / Part 1 has been removed: We'll only complete the following 2 labs this week!    
-* [Lab 2 / Part 2: Working with Files](/Goldford-MTEC1003/labs/02/lab.02.part2.working.with.files.txt){:target="_blank"}  
-* [Lab 2 / Part 3: Shell Scripting, Permissions, Editing Text, Date + Time](/Goldford-MTEC1003/labs/02/lab.02.part3.shell.scripting.txt){:target="_blank"}   -->
-
+   
 * * *  
 
 ## Week 3: {{ site.week-03 }}  
-### Reaper: Plugins and Automation     
+### <span style="color: #fc3a52;">{{ site.week-03-topic }}</span>    
 
 #### Tutorials  
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
@@ -140,7 +123,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * * *
 
 ## Week 4: {{ site.week-04 }}  
-### _No class!_   
+### <span style="color: #fc3a52;">{{ site.week-04-topic }}</span>    
 
 #### Assignments  
 
@@ -157,7 +140,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * * *
 
 ## Week 5: {{ site.week-05 }}  
-### Reaper: Sampling and MIDI controllers    
+### <span style="color: #fc3a52;">{{ site.week-05-topic }}</span>    
 
 #### Tutorials  
 * [Introduction to Digital Audio: Frequency + Amplitude (Slides 53-79) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
@@ -166,7 +149,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * * *
 
 ## Week 6: {{ site.week-06 }}  
-### _No Class!_   
+### <span style="color: #fc3a52;">{{ site.week-06-topic }}</span>    
 
 #### Tutorials  
 
@@ -182,6 +165,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * * *
 
 ## Week 7: {{ site.week-07 }}  
+### <span style="color: #fc3a52;">{{ site.week-07-topic }}</span>    
 
 ### Mixing       
 
@@ -211,8 +195,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 * * *
 
 ## Week 8: {{ site.week-08 }}  
-### _No Class!_   
-<!-- ### JavaScript + Python: For Loops   -->
+### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
 
 #### Tutorials  
 * Fundamentals of musique concrete   
@@ -226,11 +209,8 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 * * *
 
 ## Week 9: {{ site.week-09 }}  
-### Multichannel Spatial Audio   
-
-<!-- ### Javascript + Python: Conditionals -->
-<!-- <p class="redish"><i>Spring Recess 3/27-4/4. See <a href="https://www.citytech.cuny.edu/registrar/docs/spring_2021.pdf" target="_blank">CityTech Spring 2021 Schedule.</a></i></p> -->  
-
+### <span style="color: #fc3a52;">{{ site.week-09-topic }}</span>    
+  
 #### Downloads     
 * [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
 
@@ -246,7 +226,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * * *
 
 ## Week 10: {{ site.week-10 }}  
-### Introduction to MaxMSP   
+### <span style="color: #fc3a52;">{{ site.week-10-topic }}</span>    
 
 #### Tutorials   
 * Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
@@ -261,7 +241,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * * *
 
 ## Week 11: {{ site.week-11 }}  
-### Frequency Domain Editing with SPEAR   
+### <span style="color: #fc3a52;">{{ site.week-11-topic }}</span>    
 
 #### Tutorials  
 * Introduction to SPEAR   
@@ -272,7 +252,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * * *
 
 ## Week 12: {{ site.week-12 }}  
-### Workshop Session on Pieces   
+### <span style="color: #fc3a52;">{{ site.week-12-topic }}</span>    
 
 #### Tutorials  
 
@@ -283,7 +263,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * * *
 
 ## Week 13: {{ site.week-13 }}  
-### Werkstatt für Aktuelle Musik (January 17-20, 2024)   
+### <span style="color: #fc3a52;">{{ site.week-13-topic }}</span>    
 
 _Change in plan: We WILL have class this week on Tuesday. Our performance is now scheduled for Thursday (see info below). We might have a need to setup and tear-down for concerts all week, but in general, we will have little or no setup requirements for performance on Thursday._   
 
@@ -308,7 +288,7 @@ Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de
 * * *
 
 ## Week 14: {{ site.week-14 }}  
-### Max: Filters + Time Domain Treatments   
+### <span style="color: #fc3a52;">{{ site.week-14-topic }}</span>    
 
 #### Tutorials  
 
@@ -318,7 +298,7 @@ Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de
 * * *
 
 ## Week 15: {{ site.week-15 }}  
-### Modular Synthesis (Part 1) with VCV Rack      
+### <span style="color: #fc3a52;">{{ site.week-15-topic }}</span>    
 
 ### Tutorials  
 
@@ -328,7 +308,7 @@ Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de
 * * *
 
 ## Week 16: {{ site.week-16 }}  
-### Modular Synthesis (Part 2) with VCV Rack      
+### <span style="color: #fc3a52;">{{ site.week-16-topic }}</span>    
 
 ### Tutorials  
 
@@ -338,12 +318,21 @@ Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de
 * * *
 
 ## Week 17: {{ site.week-17 }}  
-### _No Class!_   
+### <span style="color: #fc3a52;">{{ site.week-17-topic }}</span>    
 
 ### Tutorials  
 
 ### Assignments  
 
+
+* * *
+  
+## Week 18: {{ site.week-18 }}  
+### <span style="color: #fc3a52;">{{ site.week-18-topic }}</span>    
+
+### Tutorials  
+
+### Assignments  
 
 * * *
 
