@@ -16,7 +16,7 @@
 title: Electronic Studio Methods and Composition  
 email: Louis.Goldford@mh-luebeck.de  
 description: >- # this means to ignore newlines until "baseurl:"
-  Fall/Winter 2023 | Tuesdays 10:00—11:30 | Electronic Music Studio    
+  Winter 2024—2025 | Tuesdays 10:00—11:30 | Electronic Music Studio    
 twitter_username: einbahnstrasse  
 github_username: einbahnstrasse  
 minimal_mistakes_skin: sunrise   
@@ -135,23 +135,43 @@ kramdown:
 weekly-deadline-statement: Unless otherwise noted, assignments are always due online on GitHub at 11:59 PM the following Monday night each week!
 MHL-calendar: https://www.mh-luebeck.de/studium/termine-und-fristen/
 
-week-01: 10 Oct.  
-week-02: 17 Oct.  
-week-03: 24 Oct.  
-week-04: 31 Oct.   
-week-05: 7 Nov.  
-week-06: 14 Nov.  
-week-07: 21 Nov.  
-week-08: 28 Nov.  
-week-09: 5 Dec.  
-week-10: 12 Dec.  
-week-11: 19 Dec.  
-week-12: 9 Jan.  
-week-13: 16 Jan.  
-week-14: 23 Jan.  
-week-15: 30 Jan.  
-week-16: 6 Feb.  
-week-17: 13 Feb.  
+week-01: 1 Oct.       
+week-02: 8 Oct.            
+week-03: 15 Oct.            
+week-04: 22 Oct.            
+week-05: 29 Oct.            
+week-06: 5 Nov.  
+week-07: 12 Nov.  
+week-08: 19 Nov.  
+week-09: 26 Nov.  
+week-10: 3 Dec.  
+week-11: 10 Dec.  
+week-12: 17 Dec.  
+week-13: 7 Jan.  
+week-14: 14 Jan.  
+week-15: 21 Jan.  
+week-16: 28 Jan.  
+week-17: 4 Feb.  
+week-18: 11 Feb.  
+
+week-01-topic: What is Sound?   
+week-02-topic: Introduction to Reaper/Ableton Live           
+week-03-topic: Introduction to Modular Synthesis in VCV Rack            
+week-04-topic: Reaper/Ableton Plugins and Automation          
+week-05-topic: Basic Soundfile Treatments     
+week-06-topic: No Synchronous Class     
+week-07-topic: Reaper/Ableton Sampling and MIDI Controllers        
+week-08-topic: Mixing and Audio Post Production      
+week-09-topic: Multichannel Spatial Audio             
+week-10-topic: Introduction to MaxMSP             
+week-11-topic: Frequency Domain Editing with SPEAR              
+week-12-topic: Workshop Session on Pieces    
+week-13-topic: No Synchronous Class       
+week-14-topic: MaxMSP Filters + Time Domain Treatments           
+week-15-topic: TBA...         
+week-16-topic: Modular Synthesis (Part 2) in VCV Rack      
+week-17-topic: TBA...     
+week-18-topic: TBA...   
 
 # language plugin settings   
 

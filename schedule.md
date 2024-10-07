@@ -41,7 +41,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * * *   
 
 ## Week 1: {{ site.week-01 }}  
-### What is Sound?  
+### <span style="color: #10999e;">{{ site.week-01-topic }}</span>    
 
 <!-- ### [Week #1 Survey/Quiz — Personal Info, Syllabus Elements](https://forms.gle/HeYNxzVSuG67M3Nb8){:target="_blank"}   -->
 <!-- * _Complete the quizlet above as part of today's participation._   -->
@@ -65,31 +65,11 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * <span style="color: red;">Install Reaper before Week 2 <em>(See Resources page for instructions).</em></span>  
 * <span style="color: red;">Join our Discord Server before Week 2 <em>(See Syllabus page for details).</em></span>  
 * [Auditory Vantage Point (due by Week 3)](/MHL-studio-methods/auditory-vantage-point/){:target="_blank"}   
-
-
-<!-- #### Video Tutorial
-##### Stepping Through Week 1 Slides + Labs    
-
-<div class="video">
-    <figure>
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/O617zAPuNng" frameborder="0" allowfullscreen></iframe>
-    </figure>
-</div>
-_Normally we won't record our classes but sometimes we may in order to clarify complex topics. This video is archived from a previous version of this class, but the directions are all the same. For the 2 labs (below) this week, enter your respones in the text files and then save your changes directly on GitHub (i.e. "commit" your changes), as demonstrated and described in class and in this video. The slides above will help guide you to these answers, so be sure to study them and use to your advantage. Don't forget to study the slides for Week 2 before next class!_   
-
-##### Lab Assignments
-
-<div class="instructornote"><p markdown="span"><em>{{ site.weekly-deadline-statement }}</em></p></div>  
-* [Setting Up GitHub for Submitting Labs](/Goldford-MTEC1003/labs/01/how.to.submit.1st.week.labs.html){:target="_blank"}  
-* [Lab 1 / Part 1: Commands + Navigation](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part1.commands.navigation.txt){:target="_blank"}  
-* [Lab 1 / Part 2: Download + (Un)Compress](https://github.com/einbahnstrasse/mtec1003-week1-labs/blob/master/lab.01.part2.download.compress.txt){:target="_blank"}   -->
-
+  
 * * *  
 
-<!-- <a id="w2"></a> -->
-<!-- <h3 class="schedule-page-date">Week 2: {{ site.week-02 }}</h3> -->
 ## Week 2: {{ site.week-02 }}  
-### Introduction to Reaper: Basic Soundfile Treatments   
+### <span style="color: #10999e;">{{ site.week-02-topic }}</span>    
 
 #### Tutorials and Slides  
 * [What Are Treatments?](/MHL-studio-methods/treatments/){:target="_blank"}  
