@@ -66,9 +66,7 @@ _**Students are required to pass Electronic Studio Methods and Composition in or
 ### 2.1 Course Goals      
 
 This course will equip students with the basic protocols of working in a studio enviornment, acquainting them with the fundamnetals of acoustics and sound, digital audio, an overview of the history of techniques for analog and digital audio production and synthesis, and will provide direct, hands-on experience creating multichannel electronic music in a Digital Audio Workstation (DAW), as well as an inroduction to the MaxMSP real-time audio and synthesis environment. 
-
-<!-- Students will learn to **integrate** basic formal methods of musical generation into their already established personal and foundational MaxMSP workflow by **building control structures** such as loops, functions, and conditionals. Various data clases, as well as historic approaches to CAO methods by twentieth and twenty-first century composers, will be **observed** and **understood**. A final step in this process is the **creation of a concert work** or a _work-in-progress_ to be presented near the end of the semester during a class concert.   -->
-
+  
 ### 2.2 Learning Outcomes  
 
 _By the end of the course, successful students will be able to do the following:_  
@@ -85,12 +83,13 @@ _See the [RESOURCES TAB](/resources){:target="_blank"} for download and document
 1. personal laptop  
 2. headphones  
 3. external hard drive _(or cloud storage to back up your files)_  
-3. Reaper  
-4. SpatGRIS    
-5. MaxMSP  
-6. Google Chrome or any web browser that will allow you to access our Course Website & materials   
-7. various other plugins and apps listed throughout the semester   
-
+4. Reaper  
+5. Ableton Live Suite   
+6. SpatGRIS    
+7. MaxMSP  
+8. Google Chrome or any web browser that will allow you to access our Course Website & materials   
+9. various other plugins and apps listed throughout the semester   
+  
 ## 3. Expectations   
 
 ### 3.1 General Expectations   
@@ -238,101 +237,104 @@ _For a detailed list of assignments, points, and deadlines, see the [GRADING TAB
 <tr>
 <td markdown="span">1</td>
 <td markdown="span">{{ site.week-01 }}</td>
-<td markdown="span"><a href="schedule/#w1" target="_blank">What is Sound?</td>
+<td markdown="span"><a href="schedule/#w1" target="_blank">{{ site.week-01-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">2</td>
 <td markdown="span">{{ site.week-02 }}</td>
-<td markdown="span"><a href="schedule/#w2" target="_blank">Introduction to Reaper:<br>Basic Soundfile Treatments</a></td>
+<td markdown="span"><a href="schedule/#w2" target="_blank">{{ site.week-02-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">3</td>
 <td markdown="span">{{ site.week-03 }}</td>
-<td markdown="span"><a href="schedule/#w3" target="_blank">Reaper: Plugins and Automation</a></td>
+<td markdown="span"><a href="schedule/#w3" target="_blank">{{ site.week-03-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">4</td>
 <td markdown="span">{{ site.week-04 }}</td>
-<td markdown="span"><a href="schedule/#w4" target="_blank"><em>No class!</em></a></td>
+<td markdown="span"><a href="schedule/#w4" target="_blank">{{ site.week-04-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">5</td>
 <td markdown="span">{{ site.week-05 }}</td>
-<td markdown="span"><a href="schedule/#w5" target="_blank">Reaper: Sampling and MIDI controllers</a></td>
+<td markdown="span"><a href="schedule/#w5" target="_blank">{{ site.week-05-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">6</td>
 <td markdown="span">{{ site.week-06 }}</td>
-<td markdown="span"><a href="schedule/#w6" target="_blank"><em>No class!</em></a></td>
+<td markdown="span"><a href="schedule/#w6" target="_blank">{{ site.week-06-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">7</td>
 <td markdown="span">{{ site.week-07 }}</td>
-<td markdown="span"><a href="schedule/#w7" target="_blank">Mixing</a></td>
+<td markdown="span"><a href="schedule/#w7" target="_blank">{{ site.week-07-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">8</td>
 <td markdown="span">{{ site.week-08 }}</td>
-<td markdown="span"><a href="schedule/#w8" target="_blank"><em>No class!</em></a>
+<td markdown="span"><a href="schedule/#w8" target="_blank">{{ site.week-08-topic }}</a>
 </td>
 </tr>
 <tr>
 <td markdown="span">9</td>
 <td markdown="span">{{ site.week-09 }}</td>
-<td markdown="span"><a href="schedule/#w9" target="_blank">Multichannel Spatial Audio</a></td>
+<td markdown="span"><a href="schedule/#w9" target="_blank">{{ site.week-09-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">10</td>
 <td markdown="span">{{ site.week-10 }}</td>
-<td markdown="span"><a href="schedule/#w10" target="_blank">Introduction to MaxMSP</a></td>
+<td markdown="span"><a href="schedule/#w10" target="_blank">{{ site.week-10-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">11</td>
 <td markdown="span">{{ site.week-11 }}</td>
-<td markdown="span"><a href="schedule/#w11" target="_blank">Frequency Domain Editing with SPEAR</a></td>
+<td markdown="span"><a href="schedule/#w11" target="_blank">{{ site.week-11-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">12</td>
 <td markdown="span">{{ site.week-12 }}</td>
-<td markdown="span"><a href="schedule/#w12" target="_blank">Max: Filtering</a></td>
+<td markdown="span"><a href="schedule/#w12" target="_blank">{{ site.week-12-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">13</td>
 <td markdown="span">{{ site.week-13 }}</td>
-<td markdown="span"><a href="schedule/#w13" target="_blank">Werkstatt für Aktuelle Musik</a></td>
+<td markdown="span"><a href="schedule/#w13" target="_blank">{{ site.week-13-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">14</td>
 <td markdown="span">{{ site.week-14 }}</td>
-<td markdown="span"><a href="schedule/#w14" target="_blank">Max: Time Domain Treatments</a></td>
+<td markdown="span"><a href="schedule/#w14" target="_blank">{{ site.week-14-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">15</td>
 <td markdown="span">{{ site.week-15 }}</td>
-<td markdown="span"><a href="schedule/#w15" target="_blank"><em>Coming Soon!</em></a></td>
+<td markdown="span"><a href="schedule/#w15" target="_blank">{{ site.week-15-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">16</td>
 <td markdown="span">{{ site.week-16 }}</td>
-<td markdown="span"><a href="schedule/#w16" target="_blank"><em>Coming Soon!</em></a></td>
+<td markdown="span"><a href="schedule/#w16" target="_blank">{{ site.week-16-topic }}</a></td>
 </tr>
 <tr>
 <td markdown="span">17</td>
 <td markdown="span">{{ site.week-17 }}</td>
-<td markdown="span"><a href="schedule/#w17" target="_blank"><em>No class!</em></a></td>
+<td markdown="span"><a href="schedule/#w17" target="_blank">{{ site.week-17-topic }}</a></td>
+</tr>
+<tr>
+<td markdown="span">18</td>
+<td markdown="span">{{ site.week-18 }}</td>
+<td markdown="span"><a href="schedule/#w18" target="_blank">{{ site.week-18-topic }}</a></td>
 </tr>
 </tbody>
 </table>
-</div>   
-
+</div>
+   
 ## 5. Academic Integrity Policy    
 
 ### 5.1 General Notes on Academic Integrity   
 
 Students and all others who work with information, ideas, texts, images, music, inventions, and other intellectual property owe their audience and sources accuracy and honesty in using, crediting, and citing sources. As a community of intellectual and professional workers, the university recognizes its responsibility for providing instruction in information literacy and academic integrity, offering models of good practice, and responding vigilantly and appropriately to infractions of academic integrity. Accordingly, academic dishonesty is prohibited at Musikhochschule Lübeck (MHL) and is punishable by penalties, including failing grades, suspension, and expulsion. 
-
-<!-- The complete text of the College policy on Academic Integrity may be found in the catalog. -->
-
+   
 <span style="color: red;">**Instructor Note:** _Code borrowed from another source must be attributed as a comment within your own code. If you are unsure of whether or not your work may constitute plagiarism, please check with the instructor before submitting. Where applicable and where marked within our course materials, follow the provisions of the [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/){:target="_blank"}_</span>
 
 ### 5.2 Academic Integrity Pledge   
@@ -344,11 +346,7 @@ I understand the value of personal integrity and ethical behavior in all aspects
 1. Fully observing the rules governing exams and assignments regarding resource material, electronic aids, copying, collaborating with others, or engaging in any other behavior that subverts the purpose of the exam or assignment, and the directions of the instructor.   
 2. Only turning in work that I have done myself, and not using unattributed work done by others. While working and studying with others can be an effective way to learn, submitted work will be my own.  
 3. Giving full and proper credit to sources and references, and acknowledging the contributions and ideas of others, in my academic work.  
-
-<!-- Further, I have read and understand the college’s [Academic Integrity Policy found in the New York City College of Technology College Catalog, p. 56 of the spring 2020 catalog.](http://www.citytech.cuny.edu/catalog/docs/catalog.pdf#page=56){:target="_blank"}  
-
-(Modified from the Marquette University Honor Code, PB, RB; AM; 12/23/2020)   -->
-
+   
 ## 6. General Grading Rubric   
 
 <div class="gradingtable">
