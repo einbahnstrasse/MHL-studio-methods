@@ -14,7 +14,7 @@ toc_sticky: true
 read_time: true  
 show_date: true  
 date_format: "%Y-%m-%d"  
-date: 2023-08-01  
+date: 2024-09-30  
 last_modified_at: 2024-09-30   
 
 ---
