@@ -85,6 +85,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 
 {% include video id="3u470I76KJo" provider="youtube" %}  
 
+* [Split and Glue Audio Clips in Ableton Live](https://youtu.be/CtopsAYunqs?si=peoKaauShtEOtrit){:target="_blank"}  
+
+{% include video id="CtopsAYunqs?si=peoKaauShtEOtrit" provider="youtube" %}  
+   
 #### Assignments  
 * <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>  
    
