@@ -134,6 +134,11 @@ _See the [RESOURCES TAB](/resources){:target="_blank"} for download and document
 
 _Your participation is based on attendance and your engagement in class, and will form a substantial portion of your grade._   
 
+* German law requires that you **attend a minimum of 80% of all class sessions** in order to pass this class. 
+* This means **you can miss up to 3 class sessions**.  
+* However, missing a class should be avoided when possible. In a skills-building music technology course such as this one, we must ensure that you are up-to-date on our materials each week — partly because the next week will often build on the materials covered last week.  
+* Missing _more than_ 3 class sessions will result in a grade reduction or possibly a failure of the course, depending on whether a student satisfies additional makeup work assigned by the instructor. In this scenario, the student completes all Max patching, assignments, projects, and any additional material assigned by the instructor to help ensure understanding or evaluation of progress. Additional materials may, in some cases, require the student to attend periodic check-in meetings with the instructor to ensure the student understands material missed in class. Failure to meet with the instructor to evaluate progress in such a circumstance will result in a grade reduction if progress is otherwise not demonstrated in the student's submitted work.  
+
 #### 3.5.1 Prompt Arrival   
 
 1. Students are expected to arrive promptly to all class sessions and remain engaged throughout.  
