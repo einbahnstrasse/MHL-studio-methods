@@ -71,6 +71,9 @@ _This page will be updated frequently with examples, video tutorials, links to n
 ## Week 2: {{ site.week-02 }}  
 ### <span style="color: #fc3a52;">{{ site.week-02-topic }}</span>    
 
+#### Downloads   
+* [Audio Files for Testing](https://github.com/einbahnstrasse/synth-tech-media){:target="_blank"}  
+  
 #### Tutorials and Slides  
 * [What Are Treatments?](/MHL-studio-methods/treatments/){:target="_blank"}  
 * [Introduction to Digital Audio: Analogue vs. Digital (Slides 15-27)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
