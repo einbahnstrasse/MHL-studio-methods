@@ -35,8 +35,7 @@ last_modified_at: 2024-09-30
 ## 1. Essential Contact Information  
 
 **Course Number:** 00003   
-**Semester:** Fall/Winter 2023   
-<!-- **Section:** OL20 (21310)   -->
+**Semester:** Winter 2024 — 2025   
 **Time:** Tuesdays 10:00-11:30    
 **Location:** 2.43 Electronic Music Studio   
 **Format:** Seminar   
