@@ -86,7 +86,7 @@ _This page will be updated frequently with examples, video tutorials, links to n
 {% include video id="3u470I76KJo" provider="youtube" %}  
 
 #### Assignments  
-* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
+* <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>  
    
 * * *  
 
@@ -126,6 +126,7 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ### <span style="color: #fc3a52;">{{ site.week-04-topic }}</span>    
 
 #### Assignments  
+* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
 
 #### Video Tutorials  
 * [Common types of audio cables and their uses](https://youtu.be/617z88J8060?si=LMRDTIkWgeWa6Z3o){:target="_blank"}  
@@ -187,7 +188,6 @@ _Choose auto-generated German translations of subtitles if it would help:_
 <!-- ![auto-generated subtitles](assets/images/auto-generated-subtitles.png)    -->
 
 #### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
 * Assign + discuss the [Final Exam: 4-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
 
@@ -221,6 +221,7 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 _Choose auto-generated German translations of subtitles if it would help. (See example image above in Week 6.)_  
 
 #### Assignments  
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/midterm/">Midterm: 3-Minute Stereo Sketch</a></em></span>   
 * <span style="color: red;">Install MaxMSP before Week 10 <em>(See Resources page for instructions).</em></span>  
 
 * * *
@@ -293,7 +294,6 @@ Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de
 #### Tutorials  
 
 #### Assignments  
-* <span style="color: red;"><em>Install VCV Rack before Week 15! (See Software + Resource page.)</em></span>  
 
 * * *
 
