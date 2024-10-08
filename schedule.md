@@ -65,6 +65,18 @@ _This page will be updated frequently with examples, video tutorials, links to n
 * <span style="color: red;">Install Reaper before Week 2 <em>(See Resources page for instructions).</em></span>  
 * <span style="color: red;">Join our Discord Server before Week 2 <em>(See Syllabus page for details).</em></span>  
 * [Auditory Vantage Point (due by Week 3)](/MHL-studio-methods/auditory-vantage-point/){:target="_blank"}   
+
+#### Terms, Concepts, Objects, Shortcuts    
+- oscillation  
+- mass-spring system   
+- simple harmonic motion   
+- frequency   
+- amplitude   
+- harmonics   
+- sine wave    
+- triangle wave    
+- sawtooth wave   
+- square wave   
   
 * * *  
 
@@ -94,6 +106,14 @@ _This page will be updated frequently with examples, video tutorials, links to n
    
 #### Assignments  
 * <span style="color: red;"><em>Install VCV Rack before Week 3! (See Software + Resource page.)</em></span>  
+
+#### Terms, Concepts, Objects, Shortcuts    
+- digital audio workstation (DAW)   
+- fade  
+- crossfade  
+- split, cut     
+- glue, consolidate  
+- treatments        
    
 * * *  
 
