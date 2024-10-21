@@ -123,7 +123,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
 #### Tutorials  
 * [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: Software + Hardware (Slides 25-32) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
-
+* [Understanding the Piezoelectric Effect of Crystal Oscillators](https://youtu.be/_XABS0dR15o?si=5X4u9oqXqkH3GXco){:target="_blank"}  
+   
+{% include video id="_XABS0dR15o?si=5X4u9oqXqkH3GXco" provider="youtube" %}  
+   
 ##### Reaper Tutorial Videos  
 * [Create Automation Envelopes](https://youtu.be/VNWfCbmhGU4?si=SATu3kkzxV1dj7x9){:target="_blank"}  
 
@@ -138,9 +141,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [10 Of The BEST Free Plugins You Should Know for Sound Design 🎧](https://youtu.be/i9nqxqkk_tc?si=LULthBuyMJrToVg1){:target="_blank"}  
 
 {% include video id="i9nqxqkk_tc" provider="youtube" %}  
-
-##### Download + Install        
-* [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline for Auditory Vantage Point assignment.</em></span>  
@@ -164,6 +164,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 * [What Does a Comb Filter Sound Like?](https://youtu.be/osig1c4QcmI?si=dKy_F78qp0uB08XD){:target="_blank"}  
 {% include video id="osig1c4QcmI" provider="youtube" %}  
+
+##### Download + Install        
+* [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
 
 * * *
 
@@ -292,21 +295,6 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 
 ## Week 13: {{ site.week-13 }}  
 ### <span style="color: #fc3a52;">{{ site.week-13-topic }}</span>    
-
-_Change in plan: We WILL have class this week on Tuesday. Our performance is now scheduled for Thursday (see info below). We might have a need to setup and tear-down for concerts all week, but in general, we will have little or no setup requirements for performance on Thursday._   
-
-#### Performance: 18 January (Thursday) at 18:30     
-
-<span style="color: red;"><em>You must present your work and attend this concert below in order to receive a passing grade in our class:</em></span>   
-
-##### WAM! LISTENING SESSION   
-18 DO     
-18.30 Uhr / MHL / Elektronisches Studio (Raum 2.43)    
-Elektroakustische Kompositionen und interaktive Systeme mit Studierenden der MHL.    
-
-_There is limited seating for attendance. Please invite your friends and encourage them to register for a seat below:_   
-
-Begrenzte Besuchsanzahl, Anmeldung unter <a href="mailto:anmeldung@mh-luebeck.de">anmeldung@mh-luebeck.de</a>.   
 
 #### Tutorials  
 
