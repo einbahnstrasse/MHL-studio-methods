@@ -127,6 +127,10 @@ _This page will be updated frequently with examples, video tutorials, links to n
    
 {% include video id="_XABS0dR15o?si=5X4u9oqXqkH3GXco" provider="youtube" %}  
    
+* [What is Modular Synthesis? Ask Mort...](https://youtu.be/2IIOdxgQurM?si=bsHEJEoHGjL8MP5d){:target="_blank"}  
+   
+{% include video id="2IIOdxgQurM?si=bsHEJEoHGjL8MP5d" provider="youtube" %}  
+   
 ##### Reaper Tutorial Videos  
 * [Create Automation Envelopes](https://youtu.be/VNWfCbmhGU4?si=SATu3kkzxV1dj7x9){:target="_blank"}  
 
