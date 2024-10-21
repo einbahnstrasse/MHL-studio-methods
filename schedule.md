@@ -120,8 +120,11 @@ _This page will be updated frequently with examples, video tutorials, links to n
 ## Week 3: {{ site.week-03 }}  
 ### <span style="color: #fc3a52;">{{ site.week-03-topic }}</span>    
 
+#### Warmup Quiz    
+* [Quiz on Slide Content Covered Through Week 3 _(in English and German; distributed at the beginning of class)_](https://forms.gle/Qz2qKpMdZeoyjisB9){:target="_blank"}  
+  
 #### Tutorials  
-* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
+* [Introduction to Digital Audio: Sample Rate + Bit Depth (Slides 16-52)](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: Software + Hardware (Slides 25-32) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 * [Understanding the Piezoelectric Effect of Crystal Oscillators](https://youtu.be/_XABS0dR15o?si=5X4u9oqXqkH3GXco){:target="_blank"}  
    
