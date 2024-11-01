@@ -159,9 +159,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ## Week 4: {{ site.week-04 }}  
 ### <span style="color: #fc3a52;">{{ site.week-04-topic }}</span>    
 
-#### Assignments  
-* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
-
 #### Video Tutorials  
 * [Common types of audio cables and their uses](https://youtu.be/617z88J8060?si=LMRDTIkWgeWa6Z3o){:target="_blank"}  
 {% include video id="617z88J8060" provider="youtube" %}  
@@ -174,7 +171,12 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 
 ##### Download + Install        
 * [PaulXStretch](https://sonosaurus.com/paulxstretch/){:target="_blank"}  
-
+   
+#### Assignments  
+* Assign + discuss the [Midterm: 3-Minute Stereo Sketch](/MHL-studio-methods/midterm/){:target="_blank"}   
+* Watch the following video and build automation into your 3-Minute Sketch: [Automation in Reaper and Ableton Live](https://youtu.be/l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M){:target="_blank"}   
+{% include video id="l2Tj8vD2ePs?si=c02C1YN2qlgFJl7M" provider="youtube" %}  
+  
 * * *
 
 ## Week 5: {{ site.week-05 }}  
