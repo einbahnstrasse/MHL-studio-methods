@@ -217,10 +217,6 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-91) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 <!-- * [Microphone, Speakfer, and Cable Types](#){:target="_blank"}   -->  
-* ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
-* [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
-
-<img src="/MHL-studio-methods/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
 
 * Sampling Theorem and the Nyquist Frequency   
 {% include video id="vrXGaFV1AmE" provider="youtube" %}  
@@ -245,6 +241,10 @@ _Choose auto-generated German translations of subtitles if it would help:_
 * Fundamentals of musique concrete   
 _A review of the essential Reaper techniques we learned earlier this semester._   
 {% include video id="snQl-HyeeHc" provider="youtube" %}  
+* ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
+* [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
+
+<img src="/MHL-studio-methods/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
 
 #### Assignments  
 * <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
