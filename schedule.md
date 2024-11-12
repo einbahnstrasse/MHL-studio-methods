@@ -234,9 +234,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
-
-### Mixing       
-
+   
 #### Tutorials  
 * Fundamentals of musique concrete   
 _A review of the essential Reaper techniques we learned earlier this semester._   
