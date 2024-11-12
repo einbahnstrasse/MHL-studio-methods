@@ -207,8 +207,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 ## Week 7: {{ site.week-07 }}  
 ### <span style="color: #fc3a52;">{{ site.week-07-topic }}</span>    
 
-### Mixing       
-
+#### Warmup Quiz    
+* [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}  
+  
 #### Tutorials  
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-91) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
@@ -229,12 +230,13 @@ _Choose auto-generated German translations of subtitles if it would help:_
 #### Assignments  
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
 * Assign + discuss the [Final Exam: 4-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
-
-
+  
 * * *
 
 ## Week 8: {{ site.week-08 }}  
 ### <span style="color: #fc3a52;">{{ site.week-08-topic }}</span>    
+
+### Mixing       
 
 #### Tutorials  
 * Fundamentals of musique concrete   
