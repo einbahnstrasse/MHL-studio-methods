@@ -221,6 +221,13 @@ _for virtual modular synthesis_
 
 ## Additional + Optional Resources   
 
+### File Transfer Services      
+_For sending large files (project folders, sound, video, etc.)_    
+    
+<span style="font-size: smaller; text-transform: uppercase; font-weight: bold;">
+	<a href="https://wetransfer.com/" target="_blank" class="btn btn--primary">WeTransfer.com</a> <a href="https://www.swisstransfer.com/" target="_blank" class="btn btn--primary">SwissTransfer.com</a>   
+</span>
+    
 ### YouTube: Electroacoustic + Acousmatic Music   
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=dGmT6dvsMcJbrF1u&amp;list=PLJiSOq8uc1_-jrDCDCAqAhAECYbwWrqr_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
