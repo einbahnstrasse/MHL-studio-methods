@@ -253,7 +253,7 @@ _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus,
   
 <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%C3%9Cbergangshaus,%20K%C3%B6nigstra%C3%9Fe%2054,%2023552%20L%C3%BCbeck+(Digital%20Learning%20Campus)&amp;t=h&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps trackers</a></iframe></div>    
 
-<!-- https://www.maps.ie/create-google-map/ -->
+<!-- source: https://www.maps.ie/create-google-map/ -->
   
 #### Downloads     
 * [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
