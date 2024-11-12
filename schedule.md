@@ -214,6 +214,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * Introduction to SPEAR   
 {% include video id="123cSokYIDo" provider="youtube" %}  
 
+* [What is a Fourier Series?](https://youtu.be/ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P){:target="_blank"}  
+{% include video id="ds0cmAV-Yek?si=WDfRKnsOxzmv4k_P" provider="youtube" %}  
+
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-91) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 <!-- * [Microphone, Speakfer, and Cable Types](#){:target="_blank"}   -->  
