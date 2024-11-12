@@ -211,6 +211,9 @@ _This is a 20-minute video and is only offered "for reference." **You don't have
 * [Quiz on Slide Content Covered Through Week 7 _(in English and German; distributed at the beginning of class)_](https://forms.gle/DyD2ySciRGJiCqZ77){:target="_blank"}  
   
 #### Tutorials  
+* Introduction to SPEAR   
+{% include video id="123cSokYIDo" provider="youtube" %}  
+
 * [Introduction to Digital Audio: Digital Signal Processing (DSP) (Slides 80-91) ](https://einbahnstrasse.github.io/MHL-intro-to-digital-audio/){:target="_blank"}  
 * [Introduction to MIDI: MIDI For the Future (Slides 49-63) ](https://einbahnstrasse.github.io/MHL-intro-to-midi/){:target="_blank"}  
 <!-- * [Microphone, Speakfer, and Cable Types](#){:target="_blank"}   -->  
@@ -255,6 +258,8 @@ _A review of the essential Reaper techniques we learned earlier this semester._
 _Class will be held in the ***Spatial Audio Lab*** of the Digital Learning Campus, in the old Karstadt building. Click on the map below for directions. Take the escalator to the 2nd floor and find the Spatial Audio Lab._   
   
 <div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=%C3%9Cbergangshaus,%20K%C3%B6nigstra%C3%9Fe%2054,%2023552%20L%C3%BCbeck+(Digital%20Learning%20Campus)&amp;t=h&amp;z=15&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"><a href="https://www.gps.ie/">gps trackers</a></iframe></div>    
+
+<!-- https://www.maps.ie/create-google-map/ -->
   
 #### Downloads     
 * [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
@@ -282,7 +287,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 * [Boiler Audio Files for MaxMSP](https://github.com/einbahnstrasse/MHL-SM-sounds-v01){:target="_blank"}    
 
 #### Assignments  
-* <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span> 
+<!-- * <span style="color: red;">Install SPEAR before Week 11 <em>(See Resources page for instructions).</em></span>  -->
 
 * * *
 
@@ -290,8 +295,6 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### <span style="color: #fc3a52;">{{ site.week-11-topic }}</span>    
 
 #### Tutorials  
-* Introduction to SPEAR   
-{% include video id="123cSokYIDo" provider="youtube" %}  
 
 #### Assignments  
 
