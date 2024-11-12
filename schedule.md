@@ -228,7 +228,7 @@ _Choose auto-generated German translations of subtitles if it would help:_
 
 #### Assignments  
 * <span style="color: red;"><em>Deadline to send + receive XLR Cable Coiling videos.</em></span> 
-* Assign + discuss the [Final Exam: 4-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
+* Assign + discuss the [Final Exam: 8-Channel Fixed Media Piece](/MHL-studio-methods/final-multichannel-fixed-piece/){:target="_blank"}.  
   
 * * *
 
@@ -241,10 +241,6 @@ _Choose auto-generated German translations of subtitles if it would help:_
 * Fundamentals of musique concrete   
 _A review of the essential Reaper techniques we learned earlier this semester._   
 {% include video id="snQl-HyeeHc" provider="youtube" %}  
-* ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
-* [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
-
-<img src="/MHL-studio-methods/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
 
 #### Assignments  
 * <span style="color: red;"><em>Work on material for your Final Project.</em></span> 
@@ -280,8 +276,10 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### <span style="color: #fc3a52;">{{ site.week-10-topic }}</span>    
 
 #### Tutorials   
-* Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DpKIQzjOh_U?si=jk0aRsoD2WTIqm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+* ['Mixing Secrets' Multitrack Library](https://cambridge-mt.com/ms/mtk-newbies/#EntryLevel){:target="_blank"}  
+* [Mixing Instruments by Frequency Range:](https://imbat.wordpress.com/2017/06/05/music-instrument-freqencies/){:target="_blank"}  
+
+<img src="/MHL-studio-methods/assets/images/eq-chart-1.png" alt="Mixing Instruments by Frequency Range">
 
 #### Downloads     
 * [Boiler Audio Files for MaxMSP](https://github.com/einbahnstrasse/MHL-SM-sounds-v01){:target="_blank"}    
@@ -295,6 +293,8 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 ### <span style="color: #fc3a52;">{{ site.week-11-topic }}</span>    
 
 #### Tutorials  
+* Introduction to Max (33 minutes) _(make the patches as demonstrated in the video tutorial below:)_  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DpKIQzjOh_U?si=jk0aRsoD2WTIqm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 #### Assignments  
 
@@ -306,7 +306,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 #### Tutorials  
 
 #### Assignments  
-* _Finish your Final 4-Channel piece!_   
+* _Finish your Final piece!_   
 
 
 * * *
@@ -317,7 +317,7 @@ _Choose auto-generated German translations of subtitles if it would help. (See e
 #### Tutorials  
 
 #### Assignments  
-* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/final-multichannel-fixed-piece/">Final Exam: 4-Channel Fixed Media Piece</a></em></span>   
+* <span style="color: red;"><em>Deadline for <a href="/MHL-studio-methods/final-multichannel-fixed-piece/">Final Exam: 8-Channel Fixed Media Piece</a></em></span>   
 
 * * *
 
