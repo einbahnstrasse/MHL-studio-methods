@@ -262,6 +262,7 @@ _Class will be held in the **Spatial Audio Lab** of the Digital Learning Campus,
 * [Boiler Audio Files for Spatialization](https://github.com/einbahnstrasse/MHL-intro-spat){:target="_blank"}  
 
 #### Tutorials  
+* [Ellen Fullman’s Long String Instrument](https://scottcolburn.com/blog/?p=5445){:target="_blank"}  
 * Aliasing     
 {% include video id="91PKZllbgds" provider="youtube" %}  
 
